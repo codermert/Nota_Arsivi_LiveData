@@ -8403,14 +8403,7 @@
     ]
   },
   {
-    "postTitle": "İşte Gidiyorum – Do Re Mi Notaları",
-    "postUrl": "https://www.kolaynota.com/iste-gidiyorum-do-re-mi-notalari/",
-    "postPublished": "July 02, 2020",
-    "notaImages": [
-      "https://www.kolaynota.com/wp-content/uploads/2020/07/iste_gidiyorum_kolay.jpg"
-    ]
-  },
-  {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/film_ve_dizi_2-210x136.jpg",
     "postTitle": "Aşk-ı Memnu – Kolay Notası",
     "postUrl": "https://www.kolaynota.com/ask-i-memnu-kolay-notasi/",
     "postPublished": "July 01, 2020",
@@ -8421,12 +8414,14 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2021/01/pop-muzik-notalari-210x136.jpg",
     "postTitle": "Katina’nın Elinde Makina – Kolay Notası",
     "postUrl": "https://www.kolaynota.com/katinanin-elinde-makina-kolay-notasi/",
     "postPublished": "July 01, 2020",
     "notaImages": []
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/turkuler-210x136.jpg",
     "postTitle": "Ahçik – Kolay Bağlama Notası",
     "postUrl": "https://www.kolaynota.com/ahcik-kolay-baglama-notasi/",
     "postPublished": "July 01, 2020",
@@ -8435,6 +8430,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/mfo_2-210x136.jpg",
     "postTitle": "Ele Güne Karşı Yapayalnız – Kolay Notası",
     "postUrl": "https://www.kolaynota.com/ele-gune-karsi-yapayalniz-kolay-notasi/",
     "postPublished": "July 01, 2020",
@@ -8444,11 +8440,7 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "August 31, 2023",
-    "notaImages": []
-  },
-  {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/turkuler-210x136.jpg",
     "postTitle": "Minnet Eylemem – Kolay Notası",
     "postUrl": "https://www.kolaynota.com/minnet-eylemem-kolay-notasi/",
     "postPublished": "June 30, 2020",
@@ -8457,6 +8449,12 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "August 31, 2023",
+    "notaImages": []
+  },
+  {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2021/01/piyano-notalari-210x136.jpg",
     "postTitle": "Mihriban – Kolay Piyano Notası",
     "postUrl": "https://www.kolaynota.com/mihriban-kolay-piyano-notasi/",
     "postPublished": "June 30, 2020",
@@ -8466,6 +8464,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/turkuler-210x136.jpg",
     "postTitle": "Dostum Dostum – Kolay Bağlama Notası",
     "postUrl": "https://www.kolaynota.com/dostum-dostum-kolay-baglama-notasi/",
     "postPublished": "June 30, 2020",
@@ -8474,6 +8473,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/turkuler-210x136.jpg",
     "postTitle": "Dostum Dostum Notaları",
     "postUrl": "https://www.kolaynota.com/dostum-dostum-kolay-notasi/",
     "postPublished": "June 30, 2020",
@@ -8484,6 +8484,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2021/01/piyano-notalari-210x136.jpg",
     "postTitle": "Serenade – Piyano Kolay Notası",
     "postUrl": "https://www.kolaynota.com/serenade-piyano-kolay-notasi/",
     "postPublished": "June 29, 2020",
@@ -8491,6 +8492,13 @@
       "https://www.kolaynota.com/wp-content/uploads/2020/06/Serenade_piyano-1.jpg",
       "https://www.kolaynota.com/wp-content/uploads/2020/06/Serenade_piyano-2.jpg"
     ]
+  },
+  {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/turkuler-210x136.jpg",
+    "postTitle": "Arabamın Atları – Do Re Mi Notaları",
+    "postUrl": "https://www.kolaynota.com/arabamin-atlari-do-re-mi-notalari/",
+    "postPublished": "June 29, 2020",
+    "notaImages": []
   },
   {
     "postTitle": "Züleyha – Do Re Mi Notaları",
