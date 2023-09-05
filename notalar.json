@@ -712,10 +712,7 @@
     "postTitle": "Keklik Dağlarda Şağılar – Nota",
     "postUrl": "https://www.kolaynota.com/keklik-daglarda-sagilar-nota/",
     "postPublished": "March 08, 2023",
-    "notaImages": [
-      "https://www.kolaynota.com/wp-content/uploads/2023/03/Keklik_Daglarda_sagilar_kolay.jpg",
-      "https://www.kolaynota.com/wp-content/uploads/2023/03/Keklik_Daglarda_sagilar_TRT.jpg"
-    ]
+    "notaImages": []
   },
   {
     "postTitle": "Ludovico Einaudi – Experience – Kolay Piyano",
@@ -1660,11 +1657,7 @@
     "postTitle": "Yarım Kalan Sigara – No.1 feat Melek Mosso",
     "postUrl": "https://www.kolaynota.com/yarim-kalan-sigara-no-1-feat-melek-mosso/",
     "postPublished": "August 14, 2022",
-    "notaImages": [
-      "https://www.kolaynota.com/wp-content/uploads/2022/08/Yarim_Kalan_Sigara_SOL.jpg",
-      "https://www.kolaynota.com/wp-content/uploads/2022/08/Yarim_Kalan_Sigara_LA.jpg",
-      "https://www.kolaynota.com/wp-content/uploads/2022/08/Yarim_Kalan_Sigara_piyano.jpg"
-    ]
+    "notaImages": []
   },
   {
     "postTitle": "İlhan İrem – İşte Hayat – Nota",
@@ -2726,10 +2719,7 @@
     "postTitle": "Nilüfer – Son Arzum Notaları",
     "postUrl": "https://www.kolaynota.com/nilufer-son-arzum-notalari/",
     "postPublished": "January 28, 2022",
-    "notaImages": [
-      "https://www.kolaynota.com/wp-content/uploads/2022/01/Son_Arzum.jpg",
-      "https://www.kolaynota.com/wp-content/uploads/2022/01/Son_Arzum_piy.jpg"
-    ]
+    "notaImages": []
   },
   {
     "postTitle": "Cem Adrian – Kül – Piyano Notası",
@@ -3583,7 +3573,10 @@
     "postTitle": "Barış Diri – Derinden Piyano Notaları",
     "postUrl": "https://www.kolaynota.com/baris-diri-derinden-piyano-notalari/",
     "postPublished": "July 11, 2021",
-    "notaImages": []
+    "notaImages": [
+      "https://www.kolaynota.com/wp-content/uploads/2021/07/Derinden-1.jpg",
+      "https://www.kolaynota.com/wp-content/uploads/2021/07/Derinden-2.jpg"
+    ]
   },
   {
     "postTitle": "Candan Erçetin – Sensizlik Notaları",
@@ -4915,7 +4908,9 @@
     "postTitle": "Yadıma Sen Düşende Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/yadima-sen-dusende-do-re-mi-notalari/",
     "postPublished": "January 16, 2021",
-    "notaImages": []
+    "notaImages": [
+      "https://www.kolaynota.com/wp-content/uploads/2021/01/Yadima-Sen-Dusende.jpg"
+    ]
   },
   {
     "postTitle": "Uğurlar Olsun Do Re Mi Notaları",
@@ -5005,6 +5000,22 @@
     ]
   },
   {
+    "postTitle": "Ayva Çiçek Açmış Notaları",
+    "postUrl": "https://www.kolaynota.com/ayva-cicek-acmis-notalari/",
+    "postPublished": "January 09, 2021",
+    "notaImages": [
+      "https://www.kolaynota.com/wp-content/uploads/2021/01/Ayva_Cicek_Acmis.jpg"
+    ]
+  },
+  {
+    "postTitle": "Yarım Ha Yarım Hava Do Re Mi Notaları",
+    "postUrl": "https://www.kolaynota.com/yarim-ha-yarim-hava-do-re-mi-notalari/",
+    "postPublished": "January 09, 2021",
+    "notaImages": [
+      "https://www.kolaynota.com/wp-content/uploads/2021/01/Yarim_Hava.jpg"
+    ]
+  },
+  {
     "postTitle": "Akşam Olur Karanlığa Kalırsın Piyano",
     "postUrl": "https://www.kolaynota.com/aksam-olur-karanliga-kalirsin-piyano/",
     "postPublished": "January 09, 2021",
@@ -5029,6 +5040,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "September 05, 2023",
+    "notaImages": []
+  },
+  {
     "postTitle": "Erik Dalı Gevrektir Notaları",
     "postUrl": "https://www.kolaynota.com/erik-dali-gevrektir-notalari/",
     "postPublished": "January 07, 2021",
@@ -5044,11 +5060,6 @@
       "https://www.kolaynota.com/wp-content/uploads/2021/01/Believer_kolaypiyano-1.jpg",
       "https://www.kolaynota.com/wp-content/uploads/2021/01/Believer_kolaypiyano-2.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "September 05, 2023",
-    "notaImages": []
   },
   {
     "postTitle": "Önemli Lütfen Okuyunuz – E-Posta Aboneliği",
@@ -5072,20 +5083,6 @@
     "postUrl": "https://www.kolaynota.com/nasrettin-hoca-pembe-pembe-yanakli-nota/",
     "postPublished": "January 05, 2021",
     "notaImages": []
-  },
-  {
-    "postTitle": "Cesaretin Var mı Aşka Notası",
-    "postUrl": "https://www.kolaynota.com/cesaretin-var-mi-aska-notasi/",
-    "postPublished": "January 05, 2021",
-    "notaImages": []
-  },
-  {
-    "postTitle": "Gesi Bağları Kalimba Notaları",
-    "postUrl": "https://www.kolaynota.com/gesi-baglari-kalimba-notalari/",
-    "postPublished": "January 04, 2021",
-    "notaImages": [
-      "https://www.kolaynota.com/wp-content/uploads/2021/01/Gesi_Baglari_kalimba.jpg"
-    ]
   },
   {
     "postTitle": "Çam Başına Çıktım Çıram Yanmadı Do Re Mi",
@@ -8390,9 +8387,7 @@
     "postTitle": "Sen Benim Şarkılarımsın – Kolay Piyano Notası",
     "postUrl": "https://www.kolaynota.com/sen-benim-sarkilarimsin-kolay-piyano-notasi/",
     "postPublished": "May 27, 2020",
-    "notaImages": [
-      "https://www.kolaynota.com/wp-content/uploads/2020/05/Sen_Benim_Sarkilarimsin_kolay_piyano.jpg"
-    ]
+    "notaImages": []
   },
   {
     "postTitle": "Ruhumda Sızı – Do Re Mi Notaları",
@@ -11168,10 +11163,7 @@
     "postTitle": "Game Of Thrones – Kolay Notası",
     "postUrl": "https://www.kolaynota.com/game-of-thrones-kolay-notasi/",
     "postPublished": "August 11, 2019",
-    "notaImages": [
-      "https://www.kolaynota.com/wp-content/uploads/2019/08/Game_Of_Thrones_kolaynota.jpg",
-      "https://www.kolaynota.com/wp-content/uploads/2019/08/Game_Of_Thrones.jpg"
-    ]
+    "notaImages": []
   },
   {
     "postTitle": "Hey Onbeşli – Kolay Notası",
@@ -11914,9 +11906,7 @@
     "postTitle": "Divane Aşık Gibi Kolay Nota",
     "postUrl": "https://www.kolaynota.com/divane-asik-gibi-kolay-nota/",
     "postPublished": "December 08, 2018",
-    "notaImages": [
-      "https://www.kolaynota.com/wp-content/uploads/2018/12/Divane_Asik_Gibi.jpg"
-    ]
+    "notaImages": []
   },
   {
     "postTitle": "Plevne Marşı Piyano Notası",
