@@ -4800,7 +4800,12 @@
     "postTitle": "Yalnızlık Senfonisi Notaları",
     "postUrl": "https://www.kolaynota.com/yalnizlik-senfonisi-notalari/",
     "postPublished": "January 24, 2021",
-    "notaImages": []
+    "notaImages": [
+      "https://www.kolaynota.com/wp-content/uploads/2021/01/Yalnizlik_Senfonisi_k-1.jpg",
+      "https://www.kolaynota.com/wp-content/uploads/2021/01/Yalnizlik_Senfonisi_k-2.jpg",
+      "https://www.kolaynota.com/wp-content/uploads/2021/01/Yalnizlik_Senfonisi_piy-1.jpg",
+      "https://www.kolaynota.com/wp-content/uploads/2021/01/Yalnizlik_Senfonisi_piy-2.jpg"
+    ]
   },
   {
     "postTitle": "Kış Güneşi Do Re Mi Melodika Notaları",
@@ -5005,22 +5010,6 @@
     ]
   },
   {
-    "postTitle": "Ayva Çiçek Açmış Notaları",
-    "postUrl": "https://www.kolaynota.com/ayva-cicek-acmis-notalari/",
-    "postPublished": "January 09, 2021",
-    "notaImages": [
-      "https://www.kolaynota.com/wp-content/uploads/2021/01/Ayva_Cicek_Acmis.jpg"
-    ]
-  },
-  {
-    "postTitle": "Yarım Ha Yarım Hava Do Re Mi Notaları",
-    "postUrl": "https://www.kolaynota.com/yarim-ha-yarim-hava-do-re-mi-notalari/",
-    "postPublished": "January 09, 2021",
-    "notaImages": [
-      "https://www.kolaynota.com/wp-content/uploads/2021/01/Yarim_Hava.jpg"
-    ]
-  },
-  {
     "postTitle": "Akşam Olur Karanlığa Kalırsın Piyano",
     "postUrl": "https://www.kolaynota.com/aksam-olur-karanliga-kalirsin-piyano/",
     "postPublished": "January 09, 2021",
@@ -5045,11 +5034,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "September 05, 2023",
-    "notaImages": []
-  },
-  {
     "postTitle": "Erik Dalı Gevrektir Notaları",
     "postUrl": "https://www.kolaynota.com/erik-dali-gevrektir-notalari/",
     "postPublished": "January 07, 2021",
@@ -5065,6 +5049,11 @@
       "https://www.kolaynota.com/wp-content/uploads/2021/01/Believer_kolaypiyano-1.jpg",
       "https://www.kolaynota.com/wp-content/uploads/2021/01/Believer_kolaypiyano-2.jpg"
     ]
+  },
+  {
+    "postTitle": "",
+    "postPublished": "September 05, 2023",
+    "notaImages": []
   },
   {
     "postTitle": "Önemli Lütfen Okuyunuz – E-Posta Aboneliği",
@@ -5088,6 +5077,20 @@
     "postUrl": "https://www.kolaynota.com/nasrettin-hoca-pembe-pembe-yanakli-nota/",
     "postPublished": "January 05, 2021",
     "notaImages": []
+  },
+  {
+    "postTitle": "Cesaretin Var mı Aşka Notası",
+    "postUrl": "https://www.kolaynota.com/cesaretin-var-mi-aska-notasi/",
+    "postPublished": "January 05, 2021",
+    "notaImages": []
+  },
+  {
+    "postTitle": "Gesi Bağları Kalimba Notaları",
+    "postUrl": "https://www.kolaynota.com/gesi-baglari-kalimba-notalari/",
+    "postPublished": "January 04, 2021",
+    "notaImages": [
+      "https://www.kolaynota.com/wp-content/uploads/2021/01/Gesi_Baglari_kalimba.jpg"
+    ]
   },
   {
     "postTitle": "Çam Başına Çıktım Çıram Yanmadı Do Re Mi",
@@ -7206,7 +7209,10 @@
     "postTitle": "Çemberimde Gül Oya – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/cemberimde-gul-oya-do-re-mi-notalari/",
     "postPublished": "July 24, 2020",
-    "notaImages": []
+    "notaImages": [
+      "https://www.kolaynota.com/wp-content/uploads/2020/07/Cemberimde_Gul_Oya.jpg",
+      "https://www.kolaynota.com/wp-content/uploads/2020/07/Cemberimde_Gul_Oya_p.jpg"
+    ]
   },
   {
     "postTitle": "Ağlama Bebek – Kolay Notası",
