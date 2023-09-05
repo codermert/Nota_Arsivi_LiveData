@@ -8995,10 +8995,7 @@
     "postTitle": "Fenerbahçe 100. Yıl Marşı – Kolay Piyano Notası",
     "postUrl": "https://www.kolaynota.com/fenerbahce-100-yil-marsi-kolay-piyano-notasi/",
     "postPublished": "April 21, 2020",
-    "notaImages": [
-      "https://www.kolaynota.com/wp-content/uploads/2020/04/Fenerbahce_kolaypiyano-1.jpg",
-      "https://www.kolaynota.com/wp-content/uploads/2020/04/Fenerbahce_kolaypiyano-2.jpg"
-    ]
+    "notaImages": []
   },
   {
     "postTitle": "Ne Ağlarsın Benim Zülfü Siyahım – Kolay Bağlama Notası",
@@ -9793,7 +9790,10 @@
     "postTitle": "Lüküs Hayat – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/lukus-hayat-do-re-mi-notalari/",
     "postPublished": "March 15, 2020",
-    "notaImages": []
+    "notaImages": [
+      "https://www.kolaynota.com/wp-content/uploads/2020/03/Lukus_Hayat_kolay.jpg",
+      "https://www.kolaynota.com/wp-content/uploads/2020/03/lukus_hayat_notasi.jpg"
+    ]
   },
   {
     "postTitle": "Fikrimin İnce Gülü Piyano Notası",
@@ -10224,9 +10224,7 @@
     "postTitle": "Elfida – Do Re Mi ve Kolay Notaları",
     "postUrl": "https://www.kolaynota.com/elfida-kolay-notasi/",
     "postPublished": "January 10, 2020",
-    "notaImages": [
-      "https://www.kolaynota.com/wp-content/uploads/2020/01/Elfida_kolaynota.jpg"
-    ]
+    "notaImages": []
   },
   {
     "postTitle": "Samanyolu – Kolay Notası",
@@ -11957,10 +11955,7 @@
     "postTitle": "Tükeneceğiz – Piyano Nota",
     "postUrl": "https://www.kolaynota.com/tukenecegiz-piyano-nota/",
     "postPublished": "November 14, 2018",
-    "notaImages": [
-      "https://www.kolaynota.com/wp-content/uploads/2018/11/Tukenecegiz-1.jpg",
-      "https://www.kolaynota.com/wp-content/uploads/2018/11/Tukenecegiz-2.jpg"
-    ]
+    "notaImages": []
   },
   {
     "postTitle": "Kırmızı Balık Do Re Mi Notaları",
@@ -12960,7 +12955,9 @@
     "postTitle": "Neşeli Ol ki Genç Kalasın Do Re Mi notaları",
     "postUrl": "https://www.kolaynota.com/neseli-ol-ki-genc-kalasin-do-re-mi-notalari/",
     "postPublished": "May 29, 2018",
-    "notaImages": []
+    "notaImages": [
+      "https://www.kolaynota.com/wp-content/uploads/2018/05/Neseli_Ol.jpg"
+    ]
   },
   {
     "postTitle": "Jingle Bells Do Re Mi Notaları",
