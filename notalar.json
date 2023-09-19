@@ -7873,14 +7873,6 @@
     ]
   },
   {
-    "postTitle": "Züleyha – Do Re Mi Notaları",
-    "postUrl": "https://www.kolaynota.com/zuleyha-do-re-mi-notalari/",
-    "postPublished": "June 28, 2020",
-    "notaImages": [
-      "https://www.kolaynota.com/wp-content/uploads/2020/06/Zuleyha.jpg"
-    ]
-  },
-  {
     "postTitle": "Yollarda Bulurum Seni – Kolay Piyano Notası",
     "postUrl": "https://www.kolaynota.com/yollarda-bulurum-seni-kolay-piyano-notasi/",
     "postPublished": "June 28, 2020",
@@ -7917,14 +7909,14 @@
     "notaImages": []
   },
   {
-    "postTitle": "",
-    "postPublished": "September 19, 2023",
-    "notaImages": []
-  },
-  {
     "postTitle": "Bağa Girdim Bağ Budanmış – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/baga-girdim-bag-budanmis-do-re-mi-notalari/",
     "postPublished": "June 27, 2020",
+    "notaImages": []
+  },
+  {
+    "postTitle": "",
+    "postPublished": "September 19, 2023",
     "notaImages": []
   },
   {
@@ -7954,6 +7946,14 @@
     "postUrl": "https://www.kolaynota.com/sor-allegretto-klasik-gitar-notasi/",
     "postPublished": "June 25, 2020",
     "notaImages": []
+  },
+  {
+    "postTitle": "Molino – Anglaise 1 – Klasik Gitar Notası",
+    "postUrl": "https://www.kolaynota.com/molino-anglaise-1-klasik-gitar-notasi/",
+    "postPublished": "June 25, 2020",
+    "notaImages": [
+      "https://www.kolaynota.com/wp-content/uploads/2020/06/molino-anglaise-1.png"
+    ]
   },
   {
     "postTitle": "Tourdion – Klasik Gitar Notası",
@@ -8526,16 +8526,6 @@
     ]
   },
   {
-    "postTitle": "Ruhumda Sızı – Do Re Mi Notaları",
-    "postUrl": "https://www.kolaynota.com/ruhumda-sizi-do-re-mi-notalari/",
-    "postPublished": "May 27, 2020",
-    "notaImages": [
-      "https://www.kolaynota.com/wp-content/uploads/2020/05/Ruhumda_Sizi_kolaynota.jpg",
-      "https://www.kolaynota.com/wp-content/uploads/2020/05/Ruhumda_Sizi_piyano.jpg",
-      "https://www.kolaynota.com/wp-content/uploads/2020/05/Ruhumda_Sizi.jpg"
-    ]
-  },
-  {
     "postTitle": "Ağlatan Kafe Kolay ve Piyano Notaları",
     "postUrl": "https://www.kolaynota.com/aglatan-kafe-kolay-notasi/",
     "postPublished": "May 26, 2020",
@@ -8569,17 +8559,17 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "September 19, 2023",
-    "notaImages": []
-  },
-  {
     "postTitle": "Nayino – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/nayino-do-re-mi-notalari/",
     "postPublished": "May 21, 2020",
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2020/05/Nayino.jpg"
     ]
+  },
+  {
+    "postTitle": "",
+    "postPublished": "September 19, 2023",
+    "notaImages": []
   },
   {
     "postTitle": "Gibi Gibi – Kolay Notası",
@@ -8613,6 +8603,12 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2020/05/Karayip_Korsanlari.jpg"
     ]
+  },
+  {
+    "postTitle": "Bursa’nın Ufak Tefek Taşları – Do Re Mi Notaları",
+    "postUrl": "https://www.kolaynota.com/bursanin-ufak-tefek-taslari-do-re-mi-notalari/",
+    "postPublished": "May 16, 2020",
+    "notaImages": []
   },
   {
     "postTitle": "Çalın Davulları – Kolay Notası",
@@ -13071,7 +13067,6 @@
     "notaImages": []
   },
   {
-    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/sanat-210x136.jpg",
     "postTitle": "Yine Bir Gülnihal Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/yine-bir-gulnihal-do-re-mi-notalari/",
     "postPublished": "May 29, 2018",
@@ -13080,7 +13075,6 @@
     ]
   },
   {
-    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2021/01/cocuk-sarkilari-210x136.jpg",
     "postTitle": "Neşeli Ol ki Genç Kalasın Do Re Mi notaları",
     "postUrl": "https://www.kolaynota.com/neseli-ol-ki-genc-kalasin-do-re-mi-notalari/",
     "postPublished": "May 29, 2018",
@@ -13089,7 +13083,6 @@
     ]
   },
   {
-    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2021/01/cocuk-sarkilari-210x136.jpg",
     "postTitle": "Jingle Bells Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/jingle-bells-do-re-mi-notalari/",
     "postPublished": "May 29, 2018",
@@ -13099,7 +13092,6 @@
     ]
   },
   {
-    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2021/01/cocuk-sarkilari-210x136.jpg",
     "postTitle": "Happy Birthday Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/happy-birthday-do-re-mi-notalari/",
     "postPublished": "May 29, 2018",
@@ -13108,7 +13100,6 @@
     ]
   },
   {
-    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/okul_sarkilari_2-210x136.jpg",
     "postTitle": "Dostluk Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/dostluk-do-re-mi-notalari-2/",
     "postPublished": "May 29, 2018",
@@ -13122,7 +13113,6 @@
     "notaImages": []
   },
   {
-    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2021/01/cocuk-sarkilari-210x136.jpg",
     "postTitle": "Kırlara Doğru Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/kirlara-dogru-do-re-mi-notalari/",
     "postPublished": "May 29, 2018",
@@ -13131,7 +13121,6 @@
     ]
   },
   {
-    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/ilham_gencere_2-210x136.jpg",
     "postTitle": "Bak Bir Varmış Bir Yokmuş Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/bak-bir-varmis-bir-yokmus-do-re-mi-notalari/",
     "postPublished": "May 29, 2018",
@@ -13141,7 +13130,6 @@
     ]
   },
   {
-    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/turkuler-210x136.jpg",
     "postTitle": "Ela Gözlüm Ben Bu Elden Gidersem Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/ela-gozlum-ben-bu-elden-gidersem-do-re-mi-notalari/",
     "postPublished": "May 28, 2018",
@@ -13152,14 +13140,12 @@
     ]
   },
   {
-    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/turkuler-210x136.jpg",
     "postTitle": "Bilmem Şu Feleğin Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/bilmem-su-felegin-do-re-mi-notalari/",
     "postPublished": "May 28, 2018",
     "notaImages": []
   },
   {
-    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/turkuler-210x136.jpg",
     "postTitle": "Tuna Nehri Akmam Diyor Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/tuna-nehri-akmam-diyor-do-re-mi-notalari/",
     "postPublished": "May 28, 2018",
