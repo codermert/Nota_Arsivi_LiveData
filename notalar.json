@@ -665,6 +665,26 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2023/04/semicenk-210x136.webp",
+    "postTitle": "Unutmak Öyle Kolay Mı Sandın – Nota",
+    "postUrl": "https://www.kolaynota.com/unutmak-oyle-kolay-mi-sandin-nota/",
+    "postPublished": "April 05, 2023",
+    "notaImages": [
+      "https://www.kolaynota.com/wp-content/uploads/2023/04/Unutmak-Oyle-Kolay-Mi-Sandin-kolay.jpg",
+      "https://www.kolaynota.com/wp-content/uploads/2023/04/Unutmak-Oyle-Kolay-Mi-Sandin-piyano-1.jpg",
+      "https://www.kolaynota.com/wp-content/uploads/2023/04/Unutmak-Oyle-Kolay-Mi-Sandin-piyano-2.jpg"
+    ]
+  },
+  {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/ajda_pekkan-210x136.jpg",
+    "postTitle": "Ajda Pekkan – Baksana Talihe – Nota",
+    "postUrl": "https://www.kolaynota.com/ajda-pekkan-baksana-talihe-nota/",
+    "postPublished": "April 03, 2023",
+    "notaImages": [
+      "https://www.kolaynota.com/wp-content/uploads/2023/04/Baksana_Talihe_kolay.jpg"
+    ]
+  },
+  {
     "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2021/03/kirac-210x136.jpg",
     "postTitle": "Kıraç – Razıysan Gel – Nota",
     "postUrl": "https://www.kolaynota.com/kirac-raziysan-gel-nota/",
@@ -692,6 +712,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "September 21, 2023",
+    "notaImages": []
+  },
+  {
     "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/sezen_aksu_2-210x136.jpg",
     "postTitle": "Sezen Aksu – Geri Dön – Nota",
     "postUrl": "https://www.kolaynota.com/sezen-aksu-geri-don-nota/",
@@ -712,11 +737,6 @@
       "https://www.kolaynota.com/wp-content/uploads/2023/03/duvernoy-etude-op176-no18-2.webp",
       "https://www.kolaynota.com/wp-content/uploads/2023/03/duvernoy-etude-op176-no18-3.webp"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "September 21, 2023",
-    "notaImages": []
   },
   {
     "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/turkuler-210x136.jpg",
@@ -745,26 +765,6 @@
     "postPublished": "March 17, 2023",
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2023/03/Hava_Nasil_Oralarda_kolay.jpg"
-    ]
-  },
-  {
-    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2022/10/dedubluman-mavzer-tabancas-210x136.jpg",
-    "postTitle": "Dedublüman – Sakladığın Bir Şeyler Var – Nota",
-    "postUrl": "https://www.kolaynota.com/dedubluman-sakladigin-bir-seyler-var-nota/",
-    "postPublished": "March 15, 2023",
-    "notaImages": [
-      "https://www.kolaynota.com/wp-content/uploads/2023/03/Sakladigin_Bir_Seyler_Var_kolay.jpg",
-      "https://www.kolaynota.com/wp-content/uploads/2023/03/Sakladigin_Bir_Seyler_Var_piyano-1.jpg",
-      "https://www.kolaynota.com/wp-content/uploads/2023/03/Sakladigin_Bir_Seyler_Var_piyano-2.jpg"
-    ]
-  },
-  {
-    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/sanat-210x136.jpg",
-    "postTitle": "Bu Ne Sevgi Ah Bu Ne Izdırap – Nota",
-    "postUrl": "https://www.kolaynota.com/bu-ne-sevgi-ah-bu-ne-izdirap-nota/",
-    "postPublished": "March 14, 2023",
-    "notaImages": [
-      "https://www.kolaynota.com/wp-content/uploads/2023/03/Bu_Ne_Sevgi_Ah_kolay.jpg"
     ]
   },
   {
