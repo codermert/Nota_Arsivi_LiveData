@@ -4,7 +4,7 @@ const fs = require('fs/promises');
 const moment = require('moment');
 
 const baseUrl = 'https://www.kolaynota.com/page/';
-const totalPages = 157; // Toplam sayfa sayısı
+const totalPages = 160; // Toplam sayfa sayısı
 
 async function getNotalarFromPage(pageNumber) {
   const url = `${baseUrl}${pageNumber}/`;
