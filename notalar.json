@@ -586,14 +586,19 @@
     "postTitle": "Duyduk Duymadık Demeyin – Nota",
     "postUrl": "https://www.kolaynota.com/duyduk-duymadik-demeyin-nota/",
     "postPublished": "June 15, 2023",
-    "notaImages": []
+    "notaImages": [
+      "https://www.kolaynota.com/wp-content/uploads/2023/06/Duyduk_Duymadik_Demeyin_nota.jpg"
+    ]
   },
   {
     "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2023/03/askin_nur_yengi-210x136.webp",
     "postTitle": "Aşkın Nur Yengi – Yalancı Bahar – Nota",
     "postUrl": "https://www.kolaynota.com/askin-nur-yengi-yalanci-bahar-nota/",
     "postPublished": "June 13, 2023",
-    "notaImages": []
+    "notaImages": [
+      "https://www.kolaynota.com/wp-content/uploads/2023/06/Yalanci_Bahar_nota.jpg",
+      "https://www.kolaynota.com/wp-content/uploads/2023/06/Yalanci_Bahar_piyano.jpg"
+    ]
   },
   {
     "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2023/06/kubilay-karca-210x136.jpg",
@@ -2542,7 +2547,9 @@
     "postTitle": "Boşu Boşuna – Do Re Mi ve Kolay Notasyon",
     "postUrl": "https://www.kolaynota.com/bosu-bosuna-do-re-mi-ve-kolay-notasyon/",
     "postPublished": "May 12, 2022",
-    "notaImages": []
+    "notaImages": [
+      "https://www.kolaynota.com/wp-content/uploads/2022/05/Bosu_Bosuna_kolay.jpg"
+    ]
   },
   {
     "postTitle": "Maroon 5 – Memories Notaları",
@@ -2565,7 +2572,9 @@
     "postTitle": "Zülfü Livaneli – Sevda Değil Notaları",
     "postUrl": "https://www.kolaynota.com/zulfu-livaneli-sevda-degil-notalari/",
     "postPublished": "May 09, 2022",
-    "notaImages": []
+    "notaImages": [
+      "https://www.kolaynota.com/wp-content/uploads/2022/05/Sevda_Degil_kolay.jpg"
+    ]
   },
   {
     "postTitle": "Edip Akbayram – Anneler Günü Notaları",
@@ -7781,7 +7790,9 @@
     "postTitle": "Love Me Tender Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/love-me-tender-do-re-mi-notalari/",
     "postPublished": "July 15, 2020",
-    "notaImages": []
+    "notaImages": [
+      "https://www.kolaynota.com/wp-content/uploads/2020/07/Love_Me_Tender.jpg"
+    ]
   },
   {
     "postTitle": "Feride – Kolay Notası",
@@ -9313,7 +9324,9 @@
     "postTitle": "Magusa Limanı – Kolay Piyano Notası",
     "postUrl": "https://www.kolaynota.com/magusa-limani-kolay-piyano-notasi/",
     "postPublished": "April 26, 2020",
-    "notaImages": []
+    "notaImages": [
+      "https://www.kolaynota.com/wp-content/uploads/2020/04/Magusa_Limani_kolay_piyano.jpg"
+    ]
   },
   {
     "postTitle": "Yeşil Ördek Gibi Daldım Göllere – Kolay Notası",
@@ -10492,10 +10505,7 @@
     "postTitle": "Leylim Ley – Kolay Notası",
     "postUrl": "https://www.kolaynota.com/leylim-ley-kolay-notasi/",
     "postPublished": "January 29, 2020",
-    "notaImages": [
-      "https://www.kolaynota.com/wp-content/uploads/2020/01/Leylim_Ley_kalimba.jpg",
-      "https://www.kolaynota.com/wp-content/uploads/2020/01/Leylim_Ley_kolaynota.jpg"
-    ]
+    "notaImages": []
   },
   {
     "postTitle": "",
