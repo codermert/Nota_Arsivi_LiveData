@@ -4183,12 +4183,7 @@
     "postTitle": "Meni Attın Ay Gız Ataşa Notaları",
     "postUrl": "https://www.kolaynota.com/meni-attin-ay-giz-atasa-notalari/",
     "postPublished": "June 07, 2021",
-    "notaImages": [
-      "https://www.kolaynota.com/wp-content/uploads/2021/06/Aygiz-1.jpg",
-      "https://www.kolaynota.com/wp-content/uploads/2021/06/Aygiz-2.jpg",
-      "https://www.kolaynota.com/wp-content/uploads/2021/06/Ay_giz-1.jpg",
-      "https://www.kolaynota.com/wp-content/uploads/2021/06/Ay_giz-2.jpg"
-    ]
+    "notaImages": []
   },
   {
     "postTitle": "Yalın – Yaz Gülü Notaları",
@@ -4265,9 +4260,7 @@
     "postTitle": "Kaç Yıl Geçti Aradan Notaları",
     "postUrl": "https://www.kolaynota.com/kac-yil-gecti-aradan-notalari/",
     "postPublished": "May 28, 2021",
-    "notaImages": [
-      "https://www.kolaynota.com/wp-content/uploads/2021/05/Kac_Yil_Gecti_Aradan.jpg"
-    ]
+    "notaImages": []
   },
   {
     "postTitle": "Edis – Martılar Notaları",
@@ -13525,7 +13518,9 @@
     "postTitle": "Çanakkale Türküsü Do Re Mi Melodika Notaları",
     "postUrl": "https://www.kolaynota.com/canakkale-icinde-do-re-mi-notalari/",
     "postPublished": "May 27, 2018",
-    "notaImages": []
+    "notaImages": [
+      "https://www.kolaynota.com/wp-content/uploads/2018/05/Canakkale_Turkusu.jpg"
+    ]
   },
   {
     "postTitle": "Atabarı Do Re Mi Notaları",
