@@ -4183,7 +4183,12 @@
     "postTitle": "Meni Attın Ay Gız Ataşa Notaları",
     "postUrl": "https://www.kolaynota.com/meni-attin-ay-giz-atasa-notalari/",
     "postPublished": "June 07, 2021",
-    "notaImages": []
+    "notaImages": [
+      "https://www.kolaynota.com/wp-content/uploads/2021/06/Aygiz-1.jpg",
+      "https://www.kolaynota.com/wp-content/uploads/2021/06/Aygiz-2.jpg",
+      "https://www.kolaynota.com/wp-content/uploads/2021/06/Ay_giz-1.jpg",
+      "https://www.kolaynota.com/wp-content/uploads/2021/06/Ay_giz-2.jpg"
+    ]
   },
   {
     "postTitle": "Yalın – Yaz Gülü Notaları",
@@ -4260,7 +4265,9 @@
     "postTitle": "Kaç Yıl Geçti Aradan Notaları",
     "postUrl": "https://www.kolaynota.com/kac-yil-gecti-aradan-notalari/",
     "postPublished": "May 28, 2021",
-    "notaImages": []
+    "notaImages": [
+      "https://www.kolaynota.com/wp-content/uploads/2021/05/Kac_Yil_Gecti_Aradan.jpg"
+    ]
   },
   {
     "postTitle": "Edis – Martılar Notaları",
@@ -5603,18 +5610,13 @@
     "postTitle": "Gülpembe Notaları Do Re Mi",
     "postUrl": "https://www.kolaynota.com/gulpembe-notalari-do-re-mi/",
     "postPublished": "December 26, 2020",
-    "notaImages": [
-      "https://www.kolaynota.com/wp-content/uploads/2020/12/gulpembe-kullanilan-notalar.jpg"
-    ]
+    "notaImages": []
   },
   {
     "postTitle": "Öptüm Nefesinden Notaları – Do Re Mi",
     "postUrl": "https://www.kolaynota.com/optum-nefesinden-notalari-do-re-mi/",
     "postPublished": "December 26, 2020",
-    "notaImages": [
-      "https://www.kolaynota.com/wp-content/uploads/2020/12/Optum_Nefesinden_piyano-1.jpg",
-      "https://www.kolaynota.com/wp-content/uploads/2020/12/Optum_Nefesinden_piyano-2.jpg"
-    ]
+    "notaImages": []
   },
   {
     "postTitle": "Kusura Bakma Notaları",
