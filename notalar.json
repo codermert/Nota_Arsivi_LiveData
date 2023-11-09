@@ -179,7 +179,6 @@
     ]
   },
   {
-    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2021/01/bilal-sonses-210x136.jpg",
     "postTitle": "Bilal Sonses – Mahsur – Nota",
     "postUrl": "https://www.kolaynota.com/bilal-sonses-mahsur-nota/",
     "postPublished": "September 07, 2023",
@@ -189,7 +188,6 @@
     ]
   },
   {
-    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/klasik_muzik_2-210x136.jpg",
     "postTitle": "Boccherini – Minuet – Nota",
     "postUrl": "https://www.kolaynota.com/boccherini-minuet-nota/",
     "postPublished": "September 04, 2023",
@@ -199,7 +197,6 @@
     ]
   },
   {
-    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/sezen_aksu_2-210x136.jpg",
     "postTitle": "Son Sardunyalar – Nota – Sezen Aksu",
     "postUrl": "https://www.kolaynota.com/son-sardunyalar-nota-sezen-aksu/",
     "postPublished": "September 03, 2023",
@@ -209,7 +206,6 @@
     ]
   },
   {
-    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2021/01/piyano-notalari-210x136.jpg",
     "postTitle": "The House Of The Rising Sun – Nota",
     "postUrl": "https://www.kolaynota.com/the-house-of-the-rising-sun-nota/",
     "postPublished": "September 01, 2023",
@@ -218,7 +214,6 @@
     ]
   },
   {
-    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/kayahan_2-210x136.jpg",
     "postTitle": "Kayahan – Olsaydım – Nota",
     "postUrl": "https://www.kolaynota.com/kayahan-olsaydim-nota/",
     "postPublished": "August 31, 2023",
@@ -232,7 +227,6 @@
     "notaImages": []
   },
   {
-    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/MARSLAR_2-210x136.jpg",
     "postTitle": "Hava Harp Okulu Marşı – Nota",
     "postUrl": "https://www.kolaynota.com/hava-harp-okulu-marsi-nota/",
     "postPublished": "August 29, 2023",
@@ -241,7 +235,6 @@
     ]
   },
   {
-    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/piano-nedir-210x136.jpg",
     "postTitle": "Burgmüller – Arabesque – Piyano Nota",
     "postUrl": "https://www.kolaynota.com/burgmuller-arabesque-piyano-nota/",
     "postPublished": "August 27, 2023",
@@ -251,7 +244,6 @@
     ]
   },
   {
-    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2021/02/orhan-gencebay2-210x136.jpg",
     "postTitle": "Hatasız Kul Olmaz – Nota",
     "postUrl": "https://www.kolaynota.com/hatasiz-kul-olmaz-nota/",
     "postPublished": "August 27, 2023",
@@ -261,7 +253,6 @@
     ]
   },
   {
-    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/ilahi_2-210x136.jpg",
     "postTitle": "Biz Dünyadan Gider Olduk – Nota",
     "postUrl": "https://www.kolaynota.com/biz-dunyadan-gider-olduk-nota/",
     "postPublished": "August 25, 2023",
@@ -270,7 +261,6 @@
     ]
   },
   {
-    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2023/08/cemali-210x136.webp",
     "postTitle": "Şimdi Hayallerdesin – Nota",
     "postUrl": "https://www.kolaynota.com/simdi-hayallerdesin-nota/",
     "postPublished": "August 23, 2023",
@@ -11590,7 +11580,9 @@
     "postTitle": "Gönül Sayfam – Kolay Notası",
     "postUrl": "https://www.kolaynota.com/gonul-sayfam-kolay-notasi/",
     "postPublished": "July 24, 2019",
-    "notaImages": []
+    "notaImages": [
+      "https://www.kolaynota.com/wp-content/uploads/2019/07/Gonul_Sayfam.jpg"
+    ]
   },
   {
     "postTitle": "",
