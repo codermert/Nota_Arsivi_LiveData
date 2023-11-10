@@ -179,6 +179,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2021/01/bilal-sonses-210x136.jpg",
     "postTitle": "Bilal Sonses – Mahsur – Nota",
     "postUrl": "https://www.kolaynota.com/bilal-sonses-mahsur-nota/",
     "postPublished": "September 07, 2023",
@@ -188,6 +189,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/klasik_muzik_2-210x136.jpg",
     "postTitle": "Boccherini – Minuet – Nota",
     "postUrl": "https://www.kolaynota.com/boccherini-minuet-nota/",
     "postPublished": "September 04, 2023",
@@ -197,6 +199,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/sezen_aksu_2-210x136.jpg",
     "postTitle": "Son Sardunyalar – Nota – Sezen Aksu",
     "postUrl": "https://www.kolaynota.com/son-sardunyalar-nota-sezen-aksu/",
     "postPublished": "September 03, 2023",
@@ -206,6 +209,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2021/01/piyano-notalari-210x136.jpg",
     "postTitle": "The House Of The Rising Sun – Nota",
     "postUrl": "https://www.kolaynota.com/the-house-of-the-rising-sun-nota/",
     "postPublished": "September 01, 2023",
@@ -214,6 +218,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/kayahan_2-210x136.jpg",
     "postTitle": "Kayahan – Olsaydım – Nota",
     "postUrl": "https://www.kolaynota.com/kayahan-olsaydim-nota/",
     "postPublished": "August 31, 2023",
@@ -227,6 +232,7 @@
     "notaImages": []
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/MARSLAR_2-210x136.jpg",
     "postTitle": "Hava Harp Okulu Marşı – Nota",
     "postUrl": "https://www.kolaynota.com/hava-harp-okulu-marsi-nota/",
     "postPublished": "August 29, 2023",
@@ -235,6 +241,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/piano-nedir-210x136.jpg",
     "postTitle": "Burgmüller – Arabesque – Piyano Nota",
     "postUrl": "https://www.kolaynota.com/burgmuller-arabesque-piyano-nota/",
     "postPublished": "August 27, 2023",
@@ -244,6 +251,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2021/02/orhan-gencebay2-210x136.jpg",
     "postTitle": "Hatasız Kul Olmaz – Nota",
     "postUrl": "https://www.kolaynota.com/hatasiz-kul-olmaz-nota/",
     "postPublished": "August 27, 2023",
@@ -253,6 +261,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/ilahi_2-210x136.jpg",
     "postTitle": "Biz Dünyadan Gider Olduk – Nota",
     "postUrl": "https://www.kolaynota.com/biz-dunyadan-gider-olduk-nota/",
     "postPublished": "August 25, 2023",
@@ -261,6 +270,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2023/08/cemali-210x136.webp",
     "postTitle": "Şimdi Hayallerdesin – Nota",
     "postUrl": "https://www.kolaynota.com/simdi-hayallerdesin-nota/",
     "postPublished": "August 23, 2023",
@@ -8355,6 +8365,12 @@
     "notaImages": []
   },
   {
+    "postTitle": "Cennet – Kolay Notası",
+    "postUrl": "https://www.kolaynota.com/cennet-kolay-notasi/",
+    "postPublished": "June 18, 2020",
+    "notaImages": []
+  },
+  {
     "postTitle": "Ezel “Eyşan – Unutamıyorum” – Kolay Piyano Notası",
     "postUrl": "https://www.kolaynota.com/ezel-eysan-unutamiyorum-kolay-piyano-notasi/",
     "postPublished": "June 18, 2020",
@@ -8381,6 +8397,11 @@
     "notaImages": []
   },
   {
+    "postTitle": "",
+    "postPublished": "November 10, 2023",
+    "notaImages": []
+  },
+  {
     "postTitle": "Dance Monkey – Kolay Notası",
     "postUrl": "https://www.kolaynota.com/dance-monkey-kolay-notasi/",
     "postPublished": "June 16, 2020",
@@ -8388,11 +8409,6 @@
       "https://www.kolaynota.com/wp-content/uploads/2020/06/dance_monkey_kolaynotası-1.jpg",
       "https://www.kolaynota.com/wp-content/uploads/2020/06/dance_monkey_kolaynotası-2.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "November 10, 2023",
-    "notaImages": []
   },
   {
     "postTitle": "Dance Monkey – Kolay Piyano Notası",
@@ -8426,12 +8442,6 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2020/06/Kalinka_piyano_notasi.jpg"
     ]
-  },
-  {
-    "postTitle": "Sensiz Saadet Neymiş – Do Re Mi Notaları",
-    "postUrl": "https://www.kolaynota.com/sensiz-saadet-neymis-do-re-mi-notalari/",
-    "postPublished": "June 14, 2020",
-    "notaImages": []
   },
   {
     "postTitle": "Geçsin Günler Haftalar Kolay Piyano Notası",
@@ -11370,15 +11380,6 @@
     ]
   },
   {
-    "postTitle": "Tavşan Kaç – Do Re Mi Notaları",
-    "postUrl": "https://www.kolaynota.com/tavsan-kac-do-re-mi-notalari/",
-    "postPublished": "September 10, 2019",
-    "notaImages": [
-      "https://www.kolaynota.com/wp-content/uploads/2019/09/Tavsan_Kac.jpg",
-      "https://www.kolaynota.com/wp-content/uploads/2019/09/Tavsan_Kac_kalimba.jpg"
-    ]
-  },
-  {
     "postTitle": "Fairytale – Kolay Notaları ve Piyano Notası",
     "postUrl": "https://www.kolaynota.com/fairytale-kolay-notasi/",
     "postPublished": "September 09, 2019",
@@ -11412,11 +11413,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "November 10, 2023",
-    "notaImages": []
-  },
-  {
     "postTitle": "Herr Mannelig – Kolay Notası",
     "postUrl": "https://www.kolaynota.com/herr-mannelig-kolay-notasi/",
     "postPublished": "September 02, 2019",
@@ -11424,6 +11420,11 @@
       "https://www.kolaynota.com/wp-content/uploads/2019/09/Herr_Mannelig_nota_isim.jpg",
       "https://www.kolaynota.com/wp-content/uploads/2019/09/Herr_Mannelig_nota.jpg"
     ]
+  },
+  {
+    "postTitle": "",
+    "postPublished": "November 10, 2023",
+    "notaImages": []
   },
   {
     "postTitle": "Carulli – Prelude",
@@ -11450,6 +11451,16 @@
     "postUrl": "https://www.kolaynota.com/belalim-do-re-mi-notalari/",
     "postPublished": "August 26, 2019",
     "notaImages": []
+  },
+  {
+    "postTitle": "İkinci Bahar – Piano Notası",
+    "postUrl": "https://www.kolaynota.com/ikinci-bahar-piano-notasi/",
+    "postPublished": "August 23, 2019",
+    "notaImages": [
+      "https://www.kolaynota.com/wp-content/uploads/2019/08/ikinci_bahar_piano-1.jpg",
+      "https://www.kolaynota.com/wp-content/uploads/2019/08/ikinci_bahar_piano-2.jpg",
+      "https://www.kolaynota.com/wp-content/uploads/2019/08/ikinci_bahar_piano-3.jpg"
+    ]
   },
   {
     "postTitle": "Drama Köprüsü – Piano Notası",
