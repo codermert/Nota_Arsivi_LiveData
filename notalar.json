@@ -5611,15 +5611,6 @@
     ]
   },
   {
-    "postTitle": "İzmir Marşı Notaları",
-    "postUrl": "https://www.kolaynota.com/izmir-marsi-notalari/",
-    "postPublished": "December 21, 2020",
-    "notaImages": [
-      "https://www.kolaynota.com/wp-content/uploads/2020/12/izmir_marsi_kolay.jpg",
-      "https://www.kolaynota.com/wp-content/uploads/2020/12/izmir_marsi_kolay_re.jpg"
-    ]
-  },
-  {
     "postTitle": "Yarim Gitti Çeşmeye Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/yarim-gitti-cesmeye-do-re-mi-notalari/",
     "postPublished": "December 20, 2020",
@@ -5646,14 +5637,14 @@
     "notaImages": []
   },
   {
-    "postTitle": "",
-    "postPublished": "November 15, 2023",
-    "notaImages": []
-  },
-  {
     "postTitle": "Yarim Yarim Nota",
     "postUrl": "https://www.kolaynota.com/yarim-yarim-nota/",
     "postPublished": "December 19, 2020",
+    "notaImages": []
+  },
+  {
+    "postTitle": "",
+    "postPublished": "November 15, 2023",
     "notaImages": []
   },
   {
@@ -5680,6 +5671,12 @@
   {
     "postTitle": "Oy Kemençe Kemençe Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/oy-kemence-kemence-do-re-mi-notalari/",
+    "postPublished": "December 16, 2020",
+    "notaImages": []
+  },
+  {
+    "postTitle": "Dondurmacı Do Re Mi Notaları",
+    "postUrl": "https://www.kolaynota.com/dondurmaci-do-re-mi-notalari/",
     "postPublished": "December 16, 2020",
     "notaImages": []
   },
