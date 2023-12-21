@@ -10245,7 +10245,11 @@
     "postTitle": "Yaramızda Kalsın – Kolay Piyano Notası",
     "postUrl": "https://www.kolaynota.com/yaramizda-kalsin-kolay-piyano-notasi/",
     "postPublished": "March 21, 2020",
-    "notaImages": []
+    "notaImages": [
+      "https://www.kolaynota.com/wp-content/uploads/2020/03/Yaramizda_Kalsin_kolaypiyano_2-1.jpg",
+      "https://www.kolaynota.com/wp-content/uploads/2020/03/Yaramizda_Kalsin_kolaypiyano_2-2.jpg",
+      "https://www.kolaynota.com/wp-content/uploads/2020/03/Yaramizda_Kalsin_kolaypiyano_2-3.jpg"
+    ]
   },
   {
     "postTitle": "Bu Şehir Girdap Gülüm – Kolay Notası",
@@ -13376,9 +13380,7 @@
     "postTitle": "Dere Geliyor Dere Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/dere-geliyor-dere-do-re-mi-notalari/",
     "postPublished": "May 31, 2018",
-    "notaImages": [
-      "https://www.kolaynota.com/wp-content/uploads/2018/05/Dere_Geliyor_Dere.jpg"
-    ]
+    "notaImages": []
   },
   {
     "postTitle": "Saray Yolu İncedir Do Re Mi Notaları",
