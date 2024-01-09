@@ -1,5 +1,60 @@
 [
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2023/12/fedon-210x136.jpg",
+    "postTitle": "Fedon – Aşığınım – Nota",
+    "postUrl": "https://www.kolaynota.com/fedon-asiginim-nota/",
+    "postPublished": "December 21, 2023",
+    "notaImages": [
+      "https://www.kolaynota.com/wp-content/uploads/2023/12/Asiginim_nota-724x1024.jpg"
+    ]
+  },
+  {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2023/12/bengu-210x136.webp",
+    "postTitle": "Bengü – Yaralı – Kolay Notaları",
+    "postUrl": "https://www.kolaynota.com/bengu-yarali-kolay-notalari/",
+    "postPublished": "December 19, 2023",
+    "notaImages": [
+      "https://www.kolaynota.com/wp-content/uploads/2023/12/Yarali_nota-1.jpg",
+      "https://www.kolaynota.com/wp-content/uploads/2023/12/Yarali_nota-2.jpg"
+    ]
+  },
+  {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/film_ve_dizi_2-210x136.jpg",
+    "postTitle": "City of Stars (La La Land) – Nota",
+    "postUrl": "https://www.kolaynota.com/city-of-stars-la-la-land-nota/",
+    "postPublished": "December 17, 2023",
+    "notaImages": [
+      "https://www.kolaynota.com/wp-content/uploads/2023/12/City_Of_Stars_nota-724x1024.jpg",
+      "https://www.kolaynota.com/wp-content/uploads/2023/12/city_of_stars_piyano-1-724x1024.jpg",
+      "https://www.kolaynota.com/wp-content/uploads/2023/12/city_of_stars_piyano-2.jpg"
+    ]
+  },
+  {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2021/01/piyano-notalari-210x136.jpg",
+    "postTitle": "Henry Purcell – Menuet – Piano Nota",
+    "postUrl": "https://www.kolaynota.com/henry-purcell-menuet-piano-nota/",
+    "postPublished": "December 15, 2023",
+    "notaImages": [
+      "https://www.kolaynota.com/wp-content/uploads/2023/12/Purcell_Minuet_kolay.webp",
+      "https://www.kolaynota.com/wp-content/uploads/2023/12/Purcell_Minuet_stan-724x1024.webp"
+    ]
+  },
+  {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2023/12/fatih-erkoc-210x136.webp",
+    "postTitle": "Fatih Erkoç – Ellerim Bomboş – Nota",
+    "postUrl": "https://www.kolaynota.com/fatih-erkoc-ellerim-bombos-nota/",
+    "postPublished": "December 15, 2023",
+    "notaImages": [
+      "https://www.kolaynota.com/wp-content/uploads/2023/12/Ellerim_Bombos_nota-724x1024.jpg"
+    ]
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2022/12/simge-210x136.jpg",
     "postTitle": "Köfn – Simge – Yakışıklı – Nota",
     "postUrl": "https://www.kolaynota.com/kofn-simge-yakisikli-nota/",
     "postPublished": "December 13, 2023",
@@ -10,12 +65,14 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2021/01/piyano-notalari-210x136.jpg",
     "postTitle": "Shape of My Heart – Piyano Notası",
     "postUrl": "https://www.kolaynota.com/shape-of-my-heart-piyano-notasi/",
     "postPublished": "December 11, 2023",
     "notaImages": []
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/sanat-210x136.jpg",
     "postTitle": "Yar Saçların Lüle Lüle – Nota",
     "postUrl": "https://www.kolaynota.com/yar-saclarin-lule-lule-nota/",
     "postPublished": "December 10, 2023",
@@ -24,6 +81,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2022/10/dedubluman-mavzer-tabancas-210x136.jpg",
     "postTitle": "Dedublüman – Rüya Gibi – Nota",
     "postUrl": "https://www.kolaynota.com/dedubluman-ruya-gibi-nota/",
     "postPublished": "December 08, 2023",
@@ -33,6 +91,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2021/01/pop-muzik-notalari-210x136.jpg",
     "postTitle": "Perhaps Perhaps Perhaps – Nota",
     "postUrl": "https://www.kolaynota.com/perhaps-perhaps-perhaps-nota/",
     "postPublished": "December 06, 2023",
@@ -42,11 +101,7 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2023/12/dario-moreno-210x136.webp",
     "postTitle": "Her Akşam – Sarhoş – Nota",
     "postUrl": "https://www.kolaynota.com/her-aksam-sarhos-nota/",
     "postPublished": "December 05, 2023",
@@ -55,6 +110,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2023/12/bengu-210x136.webp",
     "postTitle": "Bengü – Ağla Kalbim – Nota",
     "postUrl": "https://www.kolaynota.com/bengu-agla-kalbim-nota/",
     "postPublished": "December 03, 2023",
@@ -63,6 +119,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2021/01/piyano-notalari-210x136.jpg",
     "postTitle": "Carol of the Bells – Piyano Notası",
     "postUrl": "https://www.kolaynota.com/carol-of-the-bells-piyano-notasi/",
     "postPublished": "December 01, 2023",
@@ -72,6 +129,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2023/11/aydilge-210x136.webp",
     "postTitle": "Aydilge – Aşk Paylaşılmaz – Nota",
     "postUrl": "https://www.kolaynota.com/aydilge-ask-paylasilmaz-nota/",
     "postPublished": "November 29, 2023",
@@ -82,6 +140,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/fikret_kizilok_2-210x136.jpg",
     "postTitle": "Fikret Kızılok – Farketmeden – Nota",
     "postUrl": "https://www.kolaynota.com/fikret-kizilok-farketmeden-nota/",
     "postPublished": "November 28, 2023",
@@ -90,6 +149,12 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2023/11/chopin-210x136.webp",
     "postTitle": "Chopin – Mi Minör Prelüd – Piyano Notası",
     "postUrl": "https://www.kolaynota.com/chopin-mi-minor-prelud-piyano-notasi/",
     "postPublished": "November 26, 2023",
@@ -100,6 +165,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/teoman_2-210x136.jpg",
     "postTitle": "Teoman – Gemiler Notaları",
     "postUrl": "https://www.kolaynota.com/teoman-gemiler-notalari/",
     "postPublished": "November 24, 2023",
@@ -108,6 +174,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/turkuler-210x136.jpg",
     "postTitle": "Çay Benim Çeşme Benim – Nota",
     "postUrl": "https://www.kolaynota.com/cay-benim-cesme-benim-nota/",
     "postPublished": "November 22, 2023",
@@ -117,6 +184,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2023/11/melis-fis-210x136.webp",
     "postTitle": "Melis Fis – Kara Kedi – Nota",
     "postUrl": "https://www.kolaynota.com/melis-fis-kara-kedi-nota/",
     "postPublished": "November 20, 2023",
@@ -127,6 +195,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/turkuler-210x136.jpg",
     "postTitle": "Bahçalarda Börülce – Nota",
     "postUrl": "https://www.kolaynota.com/bahcalarda-borulce-nota/",
     "postPublished": "November 19, 2023",
@@ -135,11 +204,7 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/sanat-210x136.jpg",
     "postTitle": "Gül Dalında Öten Bülbülün Olsam – Nota",
     "postUrl": "https://www.kolaynota.com/gul-dalinda-oten-bulbulun-olsam-nota/",
     "postPublished": "November 17, 2023",
@@ -148,6 +213,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/burcu_gunes-210x136.jpg",
     "postTitle": "Burcu Güneş – Anıları Yak – Nota",
     "postUrl": "https://www.kolaynota.com/burcu-gunes-anilari-yak-nota/",
     "postPublished": "November 15, 2023",
@@ -158,6 +224,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2021/01/muslum-gurses-210x136.jpg",
     "postTitle": "Kaç Kadeh Kırıldı – Unutamadım – Nota",
     "postUrl": "https://www.kolaynota.com/kac-kadeh-kirildi-unutamadim-nota/",
     "postPublished": "November 13, 2023",
@@ -166,6 +233,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2023/11/can-ozan-210x136.webp",
     "postTitle": "Can Ozan – Ağlama Ben Ağlarım – Nota",
     "postUrl": "https://www.kolaynota.com/can-ozan-aglama-ben-aglarim-nota/",
     "postPublished": "November 09, 2023",
@@ -175,6 +243,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2023/11/majeste-210x136.webp",
     "postTitle": "Majeste – Aşk Dediğin – Nota",
     "postUrl": "https://www.kolaynota.com/majeste-ask-dedigin-nota/",
     "postPublished": "November 07, 2023",
@@ -185,6 +254,12 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2023/11/coskun-sabah-210x136.webp",
     "postTitle": "Coşkun Sabah – Aşığım Sana – Nota",
     "postUrl": "https://www.kolaynota.com/coskun-sabah-asigim-sana-nota/",
     "postPublished": "November 05, 2023",
@@ -193,6 +268,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2023/11/Kibariye-210x136.webp",
     "postTitle": "Kibariye – Lafı mı Olur – Nota",
     "postUrl": "https://www.kolaynota.com/kibariye-lafi-mi-olur-nota/",
     "postPublished": "November 03, 2023",
@@ -201,6 +277,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/erol_evgin-210x136.jpg",
     "postTitle": "Erol Evgin – Aldım Başımı Gidiyorum – Nota",
     "postUrl": "https://www.kolaynota.com/erol-evgin-aldim-basimi-gidiyorum-nota/",
     "postPublished": "November 01, 2023",
@@ -209,6 +286,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2021/05/gokhan-kirdar-210x136.jpg",
     "postTitle": "Gökhan Kırdar – Yerine Sevemem – Nota",
     "postUrl": "https://www.kolaynota.com/gokhan-kirdar-yerine-sevemem-nota/",
     "postPublished": "October 30, 2023",
@@ -219,6 +297,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/MARSLAR_2-210x136.jpg",
     "postTitle": "Norm Ender – Parla – 100. Yıl Marşı – Nota",
     "postUrl": "https://www.kolaynota.com/norm-ender-parla-100-yil-marsi-nota/",
     "postPublished": "October 27, 2023",
@@ -229,11 +308,7 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/MARSLAR_2-210x136.jpg",
     "postTitle": "Cumhuriyet 100. Yıl Marşı – Nota",
     "postUrl": "https://www.kolaynota.com/cumhuriyet-100-yil-marsi-nota/",
     "postPublished": "October 25, 2023",
@@ -243,6 +318,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2023/10/cagan-sengul-210x136.webp",
     "postTitle": "Çağan Şengül – Çok Yazık – Nota",
     "postUrl": "https://www.kolaynota.com/cagan-sengul-cok-yazik-nota/",
     "postPublished": "October 23, 2023",
@@ -253,6 +329,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/sanat-210x136.jpg",
     "postTitle": "Arabaya Taş Koydum Civanım – Nota",
     "postUrl": "https://www.kolaynota.com/arabaya-tas-koydum-civanim-nota/",
     "postPublished": "October 22, 2023",
@@ -261,6 +338,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2022/05/erik-satie-210x136.jpg",
     "postTitle": "Erik Satie – Gymnopédie No. 1 – Piyano Nota",
     "postUrl": "https://www.kolaynota.com/erik-satie-gymnopedie-no-1-piyano-nota/",
     "postPublished": "October 20, 2023",
@@ -270,6 +348,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/sanat-210x136.jpg",
     "postTitle": "Bir İlkbahar Sabahı – Nota",
     "postUrl": "https://www.kolaynota.com/bir-ilkbahar-sabahi-nota/",
     "postPublished": "October 20, 2023",
@@ -278,6 +357,12 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2023/04/semicenk-210x136.webp",
     "postTitle": "Semicenk – Mesafe – Nota",
     "postUrl": "https://www.kolaynota.com/semicenk-mesafe-nota/",
     "postPublished": "October 18, 2023",
@@ -288,6 +373,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2023/10/burhan-cacan-210x136.webp",
     "postTitle": "Burhan Çaçan – Ayaz Geceler – Nota",
     "postUrl": "https://www.kolaynota.com/burhan-cacan-ayaz-geceler-nota/",
     "postPublished": "October 17, 2023",
@@ -296,6 +382,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2023/10/mert-demir-210x136.webp",
     "postTitle": "Mert Demir – Ateşe Düştüm – Nota",
     "postUrl": "https://www.kolaynota.com/mert-demir-atese-dustum-nota/",
     "postPublished": "October 15, 2023",
@@ -307,6 +394,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/ilahi_2-210x136.jpg",
     "postTitle": "Şol Cennetin Irmakları – Nota",
     "postUrl": "https://www.kolaynota.com/sol-cennetin-irmaklari-nota/",
     "postPublished": "October 13, 2023",
@@ -315,6 +403,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/film_ve_dizi_2-210x136.jpg",
     "postTitle": "Muhteşem Yüzyıl – Nota",
     "postUrl": "https://www.kolaynota.com/muhtesem-yuzyil-nota/",
     "postPublished": "October 10, 2023",
@@ -325,11 +414,7 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2023/10/umut-kaya-210x136.webp",
     "postTitle": "Umut Kaya – Mor Yazma – Nota",
     "postUrl": "https://www.kolaynota.com/umut-kaya-mor-yazma-nota/",
     "postPublished": "October 08, 2023",
@@ -340,6 +425,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/MARSLAR_2-210x136.jpg",
     "postTitle": "Cumhuriyet Güneşi – Nota",
     "postUrl": "https://www.kolaynota.com/cumhuriyet-gunesi-nota/",
     "postPublished": "October 05, 2023",
@@ -349,12 +435,14 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/zerrin_ozer-210x136.jpg",
     "postTitle": "Zerrin Özer – Basit Numaralar – Nota",
     "postUrl": "https://www.kolaynota.com/zerrin-ozer-basit-numaralar-nota/",
     "postPublished": "October 03, 2023",
     "notaImages": []
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/teoman_2-210x136.jpg",
     "postTitle": "Teoman – İki Yabancı Notaları",
     "postUrl": "https://www.kolaynota.com/teoman-iki-yabanci-notalari/",
     "postPublished": "October 01, 2023",
@@ -363,6 +451,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2023/09/hakan-tasiyan-210x136.webp",
     "postTitle": "Doktor – Çaresiz Derdimin Sebebi Belli – Kolay Nota",
     "postUrl": "https://www.kolaynota.com/doktor-caresiz-derdimin-sebebi-belli-kolay-nota/",
     "postPublished": "September 28, 2023",
@@ -372,12 +461,19 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/12/baris-210x136.jpg",
     "postTitle": "Barış Manço – Ne Ola Yar Ola – Nota",
     "postUrl": "https://www.kolaynota.com/baris-manco-ne-ola-yar-ola-nota/",
     "postPublished": "September 26, 2023",
     "notaImages": []
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/turkuler-210x136.jpg",
     "postTitle": "Ela Gözlerini Sevdiğim Dilber – Nota",
     "postUrl": "https://www.kolaynota.com/ela-gozlerini-sevdigim-dilber-nota/",
     "postPublished": "September 24, 2023",
@@ -386,12 +482,14 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2021/05/karsu-210x136.jpg",
     "postTitle": "Karsu – Sonunda Nota ve Kolay Piyano",
     "postUrl": "https://www.kolaynota.com/karsu-sonunda-nota-ve-kolay-piyano/",
     "postPublished": "September 22, 2023",
     "notaImages": []
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/volkan-konak-210x136.jpg",
     "postTitle": "Cerrahpaşa – Herkesin Bir Derdi Var – Nota",
     "postUrl": "https://www.kolaynota.com/cerrahpasa-herkesin-bir-derdi-var-nota/",
     "postPublished": "September 20, 2023",
@@ -400,6 +498,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2023/09/gibran-alcocer-210x136.webp",
     "postTitle": "Gibran Alcocer – Idea 10 – Piyano Nota",
     "postUrl": "https://www.kolaynota.com/gibran-alcocer-idea-10-piyano-nota/",
     "postPublished": "September 18, 2023",
@@ -411,11 +510,7 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/sanat-210x136.jpg",
     "postTitle": "Kapın Her Çalındıkça Nota",
     "postUrl": "https://www.kolaynota.com/kapin-her-calindikca-nota/",
     "postPublished": "September 16, 2023",
@@ -424,6 +519,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2023/09/funda-arar-210x136.webp",
     "postTitle": "Funda Arar – Yak Gel Nota",
     "postUrl": "https://www.kolaynota.com/funda-arar-yak-gel-nota/",
     "postPublished": "September 14, 2023",
@@ -432,6 +528,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/turkuler-210x136.jpg",
     "postTitle": "Değme Felek – Bugün Benim Efkarım Var Nota",
     "postUrl": "https://www.kolaynota.com/degme-felek-bugun-benim-efkarim-var-nota/",
     "postPublished": "September 12, 2023",
@@ -440,6 +537,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2021/10/brahms-210x136.jpg",
     "postTitle": "Macar Dansı No.5 – Piyano Nota",
     "postUrl": "https://www.kolaynota.com/macar-dansi-no-5-piyano-nota/",
     "postPublished": "September 09, 2023",
@@ -449,6 +547,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2021/01/bilal-sonses-210x136.jpg",
     "postTitle": "Bilal Sonses – Mahsur – Nota",
     "postUrl": "https://www.kolaynota.com/bilal-sonses-mahsur-nota/",
     "postPublished": "September 07, 2023",
@@ -458,6 +557,12 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/klasik_muzik_2-210x136.jpg",
     "postTitle": "Boccherini – Minuet – Nota",
     "postUrl": "https://www.kolaynota.com/boccherini-minuet-nota/",
     "postPublished": "September 04, 2023",
@@ -467,6 +572,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/sezen_aksu_2-210x136.jpg",
     "postTitle": "Son Sardunyalar – Nota – Sezen Aksu",
     "postUrl": "https://www.kolaynota.com/son-sardunyalar-nota-sezen-aksu/",
     "postPublished": "September 03, 2023",
@@ -476,6 +582,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2021/01/piyano-notalari-210x136.jpg",
     "postTitle": "The House Of The Rising Sun – Nota",
     "postUrl": "https://www.kolaynota.com/the-house-of-the-rising-sun-nota/",
     "postPublished": "September 01, 2023",
@@ -484,6 +591,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/kayahan_2-210x136.jpg",
     "postTitle": "Kayahan – Olsaydım – Nota",
     "postUrl": "https://www.kolaynota.com/kayahan-olsaydim-nota/",
     "postPublished": "August 31, 2023",
@@ -492,6 +600,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/MARSLAR_2-210x136.jpg",
     "postTitle": "Hava Harp Okulu Marşı – Nota",
     "postUrl": "https://www.kolaynota.com/hava-harp-okulu-marsi-nota/",
     "postPublished": "August 29, 2023",
@@ -500,11 +609,7 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/piano-nedir-210x136.jpg",
     "postTitle": "Burgmüller – Arabesque – Piyano Nota",
     "postUrl": "https://www.kolaynota.com/burgmuller-arabesque-piyano-nota/",
     "postPublished": "August 27, 2023",
@@ -514,6 +619,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2021/02/orhan-gencebay2-210x136.jpg",
     "postTitle": "Hatasız Kul Olmaz – Nota",
     "postUrl": "https://www.kolaynota.com/hatasiz-kul-olmaz-nota/",
     "postPublished": "August 27, 2023",
@@ -523,6 +629,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/ilahi_2-210x136.jpg",
     "postTitle": "Biz Dünyadan Gider Olduk – Nota",
     "postUrl": "https://www.kolaynota.com/biz-dunyadan-gider-olduk-nota/",
     "postPublished": "August 25, 2023",
@@ -531,6 +638,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2023/08/cemali-210x136.webp",
     "postTitle": "Şimdi Hayallerdesin – Nota",
     "postUrl": "https://www.kolaynota.com/simdi-hayallerdesin-nota/",
     "postPublished": "August 23, 2023",
@@ -539,6 +647,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2023/08/edis-gulsen-210x136.webp",
     "postTitle": "Sor Nota ve Kolay Piyano Düzenlemesi",
     "postUrl": "https://www.kolaynota.com/sor-nota-ve-kolay-piyano-duzenlemesi/",
     "postPublished": "August 21, 2023",
@@ -548,6 +657,12 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2023/08/altun-kurtoglu-2-210x136.webp",
     "postTitle": "Cengiz Kurtoğlu – Yorgun Yıllarım – Nota",
     "postUrl": "https://www.kolaynota.com/cengiz-kurtoglu-yorgun-yillarim-nota/",
     "postPublished": "August 20, 2023",
@@ -556,12 +671,14 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2021/12/ebru-gundes-210x136.jpg",
     "postTitle": "Ebru Gündeş – Tanrı Misafiri – Nota",
     "postUrl": "https://www.kolaynota.com/ebru-gundes-tanri-misafiri-nota/",
     "postPublished": "August 17, 2023",
     "notaImages": []
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2021/03/mabel-matiz-210x136.jpg",
     "postTitle": "Mabel Matiz – Müphem – Nota",
     "postUrl": "https://www.kolaynota.com/mabel-matiz-muphem-nota/",
     "postPublished": "August 15, 2023",
@@ -572,6 +689,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/ozdemir_erdogan_2-210x136.jpg",
     "postTitle": "Aç Kapıyı Gir İçeri – Nota",
     "postUrl": "https://www.kolaynota.com/ac-kapiyi-gir-iceri-nota/",
     "postPublished": "August 13, 2023",
@@ -581,14 +699,10 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/ilahi_2-210x136.jpg",
     "postTitle": "Segah Tekbir ve Salat-ı Ümmiyye – Nota",
     "postUrl": "https://www.kolaynota.com/segah-tekbir-ve-salat-i-ummiyye-nota/",
     "postPublished": "August 10, 2023",
-    "notaImages": []
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
     "notaImages": []
   },
   {
@@ -638,6 +752,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Sezen Aksu – Zalim – Notaları",
     "postUrl": "https://www.kolaynota.com/sezen-aksu-zalim-notalari/",
     "postPublished": "July 30, 2023",
@@ -682,11 +801,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Söyle Naz Mı Bu Kaş Çatış – Nota",
     "postUrl": "https://www.kolaynota.com/soyle-naz-mi-bu-kas-catis-nota/",
     "postPublished": "July 19, 2023",
@@ -729,6 +843,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Umutsuz Aşk – Piyano Notası",
     "postUrl": "https://www.kolaynota.com/umutsuz-ask-piyano-notasi/",
     "postPublished": "July 07, 2023",
@@ -768,11 +887,6 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2023/06/Bu_muydu_Gunahim.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "Bir Sevmek Bin Defa Ölmek Demekmiş – Nota",
@@ -821,6 +935,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Duyduk Duymadık Demeyin – Nota",
     "postUrl": "https://www.kolaynota.com/duyduk-duymadik-demeyin-nota/",
     "postPublished": "June 15, 2023",
@@ -863,11 +982,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Dolu Kadehi Ters Tut – Yalan – Nota",
     "postUrl": "https://www.kolaynota.com/dolu-kadehi-ters-tut-yalan-nota/",
     "postPublished": "June 05, 2023",
@@ -908,6 +1022,11 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2023/05/Caresizim_nota.jpg"
     ]
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
   },
   {
     "postTitle": "Dalgalandım da Duruldum – Nota",
@@ -954,11 +1073,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "SZA – Kill Bill – Piyano Notası",
     "postUrl": "https://www.kolaynota.com/sza-kill-bill-piyano-notasi/",
     "postPublished": "May 17, 2023",
@@ -1000,6 +1114,11 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2023/05/Birakma-Beni-nota.jpg"
     ]
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
   },
   {
     "postTitle": "Şu Karşıki Dağda Kar Var Duman Yok – Nota",
@@ -1044,11 +1163,6 @@
       "https://www.kolaynota.com/wp-content/uploads/2023/04/its-foggy-today-piyano-2-723x1024.jpg",
       "https://www.kolaynota.com/wp-content/uploads/2023/04/its-foggy-today-piyano-3.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "İrem Derici – Yaz Gülü – Nota",
@@ -1097,6 +1211,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Jisoo – Flower – Piyano Nota",
     "postUrl": "https://www.kolaynota.com/jisoo-flower-piyano-nota/",
     "postPublished": "April 13, 2023",
@@ -1135,11 +1254,6 @@
       "https://www.kolaynota.com/wp-content/uploads/2023/04/Unutmak-Oyle-Kolay-Mi-Sandin-piyano-1.jpg",
       "https://www.kolaynota.com/wp-content/uploads/2023/04/Unutmak-Oyle-Kolay-Mi-Sandin-piyano-2.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "Ajda Pekkan – Baksana Talihe – Nota",
@@ -1182,6 +1296,11 @@
       "https://www.kolaynota.com/wp-content/uploads/2023/03/Geri-Don-piyano-1.webp",
       "https://www.kolaynota.com/wp-content/uploads/2023/03/Geri-Don-piyano-2.webp"
     ]
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
   },
   {
     "postTitle": "Duvernoy – Etüt Op.176 No.18 – Piyano",
@@ -1228,11 +1347,6 @@
       "https://www.kolaynota.com/wp-content/uploads/2023/03/Sakladigin_Bir_Seyler_Var_piyano-1.jpg",
       "https://www.kolaynota.com/wp-content/uploads/2023/03/Sakladigin_Bir_Seyler_Var_piyano-2.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "Bu Ne Sevgi Ah Bu Ne Izdırap – Nota",
@@ -1282,6 +1396,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Ludovico Einaudi – Experience – Kolay Piyano",
     "postUrl": "https://www.kolaynota.com/ludovico-einaudi-experience-kolay-piyano/",
     "postPublished": "March 06, 2023",
@@ -1322,11 +1441,6 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2023/03/Doktor.webp"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "Elif Dedim Be Dedim Nota",
@@ -1371,6 +1485,11 @@
       "https://www.kolaynota.com/wp-content/uploads/2023/02/Elbette-piyano-1.jpg",
       "https://www.kolaynota.com/wp-content/uploads/2023/02/Elbette-piyano-2.jpg"
     ]
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
   },
   {
     "postTitle": "Anla Artık Anla Beni – Son Mektup Nota",
@@ -1419,11 +1538,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Kutsi – İlan-ı Aşk Ediyorum Nota",
     "postUrl": "https://www.kolaynota.com/kutsi-ilan-i-ask-ediyorum-nota/",
     "postPublished": "February 03, 2023",
@@ -1468,6 +1582,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Rengin – Aldatıldık – Nota",
     "postUrl": "https://www.kolaynota.com/rengin-aldatildik-nota/",
     "postPublished": "January 26, 2023",
@@ -1510,11 +1629,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Barış Manço – Dere Boyu Kavaklar Nota",
     "postUrl": "https://www.kolaynota.com/baris-manco-dere-boyu-kavaklar-nota/",
     "postPublished": "January 16, 2023",
@@ -1550,6 +1664,11 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2023/01/Son_Hickirik.jpg"
     ]
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
   },
   {
     "postTitle": "The Neighbourhood – Sweater Weather Nota",
@@ -1600,11 +1719,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Yeni Yıl Bizlere Kutlu Olsun Notaları",
     "postUrl": "https://www.kolaynota.com/yeni-yil-bizlere-kutlu-olsun-notalari/",
     "postPublished": "December 30, 2022",
@@ -1647,6 +1761,11 @@
       "https://www.kolaynota.com/wp-content/uploads/2022/12/Anason_kolay-1.jpg",
       "https://www.kolaynota.com/wp-content/uploads/2022/12/Anason_kolay-2.jpg"
     ]
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
   },
   {
     "postTitle": "maNga – Dünyanın Sonuna Doğmuşum – Nota",
@@ -1693,11 +1812,7 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/turkuler-210x136.jpg",
     "postTitle": "Bir Dilim İki Dilim Üç Dilim Elma Nota",
     "postUrl": "https://www.kolaynota.com/bir-dilim-iki-dilim-uc-dilim-elma-nota/",
     "postPublished": "December 12, 2022",
@@ -1706,6 +1821,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2022/12/the-weeknd-210x136.jpg",
     "postTitle": "The Weeknd – Blinding Lights – Kolay Piyano Notası",
     "postUrl": "https://www.kolaynota.com/the-weeknd-blinding-lights-kolay-piyano-notasi/",
     "postPublished": "December 09, 2022",
@@ -1715,6 +1831,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/turkuler-210x136.jpg",
     "postTitle": "Ben Melamet Hırkasını Nota",
     "postUrl": "https://www.kolaynota.com/ben-melamet-hirkasini-nota/",
     "postPublished": "December 07, 2022",
@@ -1723,6 +1840,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2021/03/mabel-matiz-210x136.jpg",
     "postTitle": "Mert Demir – Mabel Matiz – Antidepresan Nota",
     "postUrl": "https://www.kolaynota.com/mert-demir-mabel-matiz-antidepresan-nota/",
     "postPublished": "December 05, 2022",
@@ -1733,6 +1851,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/selami_sahin_2-210x136.jpg",
     "postTitle": "Alışmak Sevmekten Zor Notaları",
     "postUrl": "https://www.kolaynota.com/alismak-sevmekten-zor-notalari/",
     "postPublished": "December 02, 2022",
@@ -1743,6 +1862,12 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2022/09/mavi-gri-210x136.jpg",
     "postTitle": "Ölümle Yaşam Arasında Notaları",
     "postUrl": "https://www.kolaynota.com/olumle-yasam-arasinda-notalari/",
     "postPublished": "December 01, 2022",
@@ -1754,6 +1879,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/turkuler-210x136.jpg",
     "postTitle": "Bir Of Çeksem Karşıki Dağlar Yıkılır Nota",
     "postUrl": "https://www.kolaynota.com/bir-of-ceksem-karsiki-daglar-yikilir-nota/",
     "postPublished": "November 28, 2022",
@@ -1764,6 +1890,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/sanat-210x136.jpg",
     "postTitle": "Gözlerin Doğuyor Gecelerime – Nota",
     "postUrl": "https://www.kolaynota.com/gozlerin-doguyor-gecelerime-nota/",
     "postPublished": "November 23, 2022",
@@ -1772,6 +1899,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2022/02/nota-gorsel-210x136.jpg",
     "postTitle": "Saçlarına Gül Düzüm Notaları",
     "postUrl": "https://www.kolaynota.com/saclarina-gul-duzum-notalari/",
     "postPublished": "November 20, 2022",
@@ -1782,6 +1910,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2022/11/kamuran-akkor-210x136.jpg",
     "postTitle": "Aşk Eski Bir Yalan Notaları",
     "postUrl": "https://www.kolaynota.com/ask-eski-bir-yalan-notalari/",
     "postPublished": "November 18, 2022",
@@ -1791,11 +1920,7 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/MARSLAR_2-210x136.jpg",
     "postTitle": "Öğretmen Marşı Notaları",
     "postUrl": "https://www.kolaynota.com/ogretmen-marsi-notalari/",
     "postPublished": "November 15, 2022",
@@ -1805,6 +1930,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2022/02/sertab-erener-210x136.jpg",
     "postTitle": "Sertab Erener – Olsun – Nota",
     "postUrl": "https://www.kolaynota.com/sertab-erener-olsun-nota/",
     "postPublished": "November 12, 2022",
@@ -1815,6 +1941,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/musa_eroglu_2-210x136.jpg",
     "postTitle": "Yolun Sonu Görünüyor – Nota",
     "postUrl": "https://www.kolaynota.com/yolun-sonu-gorunuyor-nota/",
     "postPublished": "November 11, 2022",
@@ -1823,6 +1950,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/11/ataturk-210x136.jpg",
     "postTitle": "Atatürk – Nasıl Söylerim – Nota",
     "postUrl": "https://www.kolaynota.com/ataturk-nasil-soylerim-nota/",
     "postPublished": "November 08, 2022",
@@ -1833,6 +1961,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2022/11/kahraman-deniz-210x136.jpg",
     "postTitle": "Kahraman Deniz – Böyle Sever – Nota",
     "postUrl": "https://www.kolaynota.com/kahraman-deniz-boyle-sever-nota/",
     "postPublished": "November 07, 2022",
@@ -1843,6 +1972,12 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/sanat-210x136.jpg",
     "postTitle": "Gizli Aşk Bu Söyleyemem – Nota",
     "postUrl": "https://www.kolaynota.com/gizli-ask-bu-soyleyemem-nota/",
     "postPublished": "November 04, 2022",
@@ -1852,6 +1987,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2021/01/piyano-notalari-210x136.jpg",
     "postTitle": "Joseph Haydn – Alman Dansı – Piyano Notası",
     "postUrl": "https://www.kolaynota.com/joseph-haydn-alman-dansi-piyano-notasi/",
     "postPublished": "November 02, 2022",
@@ -1861,6 +1997,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2022/02/trabzonspor-210x136.jpg",
     "postTitle": "Yan Yana Yana Yana – Nota",
     "postUrl": "https://www.kolaynota.com/yan-yana-yana-yana-nota/",
     "postPublished": "November 01, 2022",
@@ -1869,6 +2006,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2021/01/pop-muzik-notalari-210x136.jpg",
     "postTitle": "Bilmem Ki Niçin – Nota",
     "postUrl": "https://www.kolaynota.com/bilmem-ki-nicin-nota/",
     "postPublished": "October 27, 2022",
@@ -1877,6 +2015,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2022/02/zakkum-210x136.jpg",
     "postTitle": "Zakkum – Ahtapotlar – Nota",
     "postUrl": "https://www.kolaynota.com/zakkum-ahtapotlar-nota/",
     "postPublished": "October 27, 2022",
@@ -1886,11 +2025,7 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2022/10/koliva-210x136.jpg",
     "postTitle": "Koliva – Firari – Nota",
     "postUrl": "https://www.kolaynota.com/koliva-firari-nota/",
     "postPublished": "October 26, 2022",
@@ -1899,6 +2034,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/evgeny_grinko-210x136.jpg",
     "postTitle": "Evgeny Grinko – Epilogue – Piyano Notası",
     "postUrl": "https://www.kolaynota.com/evgeny-grinko-epilogue-piyano-notasi/",
     "postPublished": "October 25, 2022",
@@ -1909,6 +2045,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2022/10/arctic_monkeys-210x136.jpg",
     "postTitle": "Do I Wanna Know – Piyano Notası",
     "postUrl": "https://www.kolaynota.com/do-i-wanna-know-piyano-notasi/",
     "postPublished": "October 22, 2022",
@@ -1918,6 +2055,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2022/10/blackpink-210x136.jpg",
     "postTitle": "How You Like That – Piano Nota",
     "postUrl": "https://www.kolaynota.com/how-you-like-that-piano-nota/",
     "postPublished": "October 19, 2022",
@@ -1927,6 +2065,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/11/ataturk-210x136.jpg",
     "postTitle": "Biz Atatürk Gençleriyiz – Nota",
     "postUrl": "https://www.kolaynota.com/biz-ataturk-gencleriyiz-nota/",
     "postPublished": "October 17, 2022",
@@ -1936,6 +2075,12 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2022/10/ezhel-210x136.jpg",
     "postTitle": "Ezhel – Felaket – Nota",
     "postUrl": "https://www.kolaynota.com/ezhel-felaket-nota/",
     "postPublished": "October 16, 2022",
@@ -1945,6 +2090,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/emir_can_igrek_2-210x136.jpg",
     "postTitle": "Emir Can İğrek – Beyoğlu – Nota",
     "postUrl": "https://www.kolaynota.com/emir-can-igrek-beyoglu-nota/",
     "postPublished": "October 14, 2022",
@@ -1955,6 +2101,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/zerrin_ozer-210x136.jpg",
     "postTitle": "Zerrin Özer – Son Mektup – Nota",
     "postUrl": "https://www.kolaynota.com/zerrin-ozer-son-mektup-nota/",
     "postPublished": "October 10, 2022",
@@ -1963,6 +2110,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2022/10/dedubluman-mavzer-tabancas-210x136.jpg",
     "postTitle": "Dedublüman & Mavzer Tabancas – Belki – Nota",
     "postUrl": "https://www.kolaynota.com/dedubluman-mavzer-tabancas-belki-nota/",
     "postPublished": "October 06, 2022",
@@ -1973,6 +2121,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2022/10/carmen-210x136.jpg",
     "postTitle": "Habanera (Carmen) – Nota",
     "postUrl": "https://www.kolaynota.com/habanera-carmen-nota/",
     "postPublished": "October 04, 2022",
@@ -1982,11 +2131,7 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/sanat-210x136.jpg",
     "postTitle": "Kalamış – Yok Başka Yerin – Nota",
     "postUrl": "https://www.kolaynota.com/kalamis-yok-baska-yerin-nota/",
     "postPublished": "October 03, 2022",
@@ -1997,6 +2142,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2021/12/sefo-210x136.jpg",
     "postTitle": "Sefo – Isabelle – Piyano Notası",
     "postUrl": "https://www.kolaynota.com/sefo-isabelle-piyano-notasi/",
     "postPublished": "October 01, 2022",
@@ -2007,6 +2153,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/turkuler-210x136.jpg",
     "postTitle": "Geldim Şu Alemi Islah Edeyim – Nota",
     "postUrl": "https://www.kolaynota.com/geldim-su-alemi-islah-edeyim-nota/",
     "postPublished": "September 30, 2022",
@@ -2015,6 +2162,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2022/09/mavi-gri-210x136.jpg",
     "postTitle": "Mavi Gri – Altüst Olmuşum – Nota",
     "postUrl": "https://www.kolaynota.com/mavi-gri-altust-olmusum-nota/",
     "postPublished": "September 28, 2022",
@@ -2025,6 +2173,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/kazim_koyuncu_2-210x136.jpg",
     "postTitle": "Kazım Koyuncu – NARİNO Nota",
     "postUrl": "https://www.kolaynota.com/kazim-koyuncu-narino-nota/",
     "postPublished": "September 26, 2022",
@@ -2033,6 +2182,12 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2022/09/kurtlar-vadisi-210x136.jpg",
     "postTitle": "Kurtlar Vadisi – Cendere Nota",
     "postUrl": "https://www.kolaynota.com/kurtlar-vadisi-cendere-nota/",
     "postPublished": "September 23, 2022",
@@ -2042,6 +2197,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2021/01/cocuk-sarkilari-210x136.jpg",
     "postTitle": "Dandini Dandini Dastana Nota",
     "postUrl": "https://www.kolaynota.com/dandini-dandini-dastana-nota/",
     "postPublished": "September 22, 2022",
@@ -2050,6 +2206,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2022/09/eiffel-65-210x136.jpg",
     "postTitle": "Eiffel 65 – I’m Blue (Da Ba Dee) – Piyano Notası",
     "postUrl": "https://www.kolaynota.com/eiffel-65-im-blue-da-ba-dee-piyano-notasi/",
     "postPublished": "September 21, 2022",
@@ -2058,6 +2215,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/turkuler-210x136.jpg",
     "postTitle": "Şinanari Nota – Do Re Mi ve Kolay",
     "postUrl": "https://www.kolaynota.com/sinanari-nota-do-re-mi-ve-kolay/",
     "postPublished": "September 19, 2022",
@@ -2066,6 +2224,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2021/01/piyano-notalari-210x136.jpg",
     "postTitle": "Rameau – Tambourine – Piyano Notası",
     "postUrl": "https://www.kolaynota.com/rameau-tambourine-piyano-notasi/",
     "postPublished": "September 19, 2022",
@@ -2074,11 +2233,7 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/turkuler-210x136.jpg",
     "postTitle": "Seherde Bir Bağa Girdim Nota",
     "postUrl": "https://www.kolaynota.com/seherde-bir-baga-girdim-nota/",
     "postPublished": "September 15, 2022",
@@ -2087,6 +2242,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2022/09/secret-garden-210x136.jpg",
     "postTitle": "Song From A Secret Garden Notaları",
     "postUrl": "https://www.kolaynota.com/song-from-a-secret-garden-notalari/",
     "postPublished": "September 14, 2022",
@@ -2097,6 +2253,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2022/09/can-koc-210x136.jpg",
     "postTitle": "Gökyüzünü Tutamam – Kolay Piyano Notası",
     "postUrl": "https://www.kolaynota.com/gokyuzunu-tutamam-kolay-piyano-notasi/",
     "postPublished": "September 12, 2022",
@@ -2107,6 +2264,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2021/01/piyano-notalari-210x136.jpg",
     "postTitle": "Mariage d’amour (Spring Waltz) – Kolay Piyano",
     "postUrl": "https://www.kolaynota.com/mariage-damour-spring-waltz-kolay-piyano/",
     "postPublished": "September 08, 2022",
@@ -2117,6 +2275,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/MARSLAR_2-210x136.jpg",
     "postTitle": "Ey Şanlı Ordu Ey Şanlı Asker – Nota",
     "postUrl": "https://www.kolaynota.com/ey-sanli-ordu-ey-sanli-asker-nota/",
     "postPublished": "September 05, 2022",
@@ -2125,6 +2284,12 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2022/09/the-cranberries-210x136.jpg",
     "postTitle": "The Cranberries – Zombie – Nota",
     "postUrl": "https://www.kolaynota.com/the-cranberries-zombie-nota/",
     "postPublished": "September 04, 2022",
@@ -2134,6 +2299,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/09/ferdi-tayfur-210x136.jpg",
     "postTitle": "Ferdi Tayfur – Bana Sor – Nota",
     "postUrl": "https://www.kolaynota.com/ferdi-tayfur-bana-sor-nota/",
     "postPublished": "September 03, 2022",
@@ -2142,6 +2308,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/sanat-210x136.jpg",
     "postTitle": "Gözyaşımda Saklısın Ağlayamam Ben – Nota",
     "postUrl": "https://www.kolaynota.com/gozyasimda-saklisin-aglayamam-ben-nota/",
     "postPublished": "September 01, 2022",
@@ -2151,6 +2318,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/turkuler-210x136.jpg",
     "postTitle": "Kahve Yemen’den Gelir – Nota",
     "postUrl": "https://www.kolaynota.com/kahve-yemenden-gelir-nota/",
     "postPublished": "August 29, 2022",
@@ -2160,6 +2328,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2022/08/kivircik-ali-210x136.jpg",
     "postTitle": "Gül Tükendi Ben Tükendim – Nota",
     "postUrl": "https://www.kolaynota.com/gul-tukendi-ben-tukendim-nota/",
     "postPublished": "August 28, 2022",
@@ -2169,11 +2338,7 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2022/08/berkay-altunyay-210x136.jpg",
     "postTitle": "Olmazlara İnat – Kolay Nota ve Piyano Notası",
     "postUrl": "https://www.kolaynota.com/olmazlara-inat-kolay-nota-ve-piyano-notasi/",
     "postPublished": "August 24, 2022",
@@ -2185,6 +2350,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/sanat-210x136.jpg",
     "postTitle": "Rüyalarda Buluşuruz – Nota",
     "postUrl": "https://www.kolaynota.com/ruyalarda-bulusuruz-nota/",
     "postPublished": "August 22, 2022",
@@ -2194,6 +2360,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/zeynep_bastik_2-210x136.jpg",
     "postTitle": "Zeynep Bastık – Ara – Kolay Nota ve Piyano Notası",
     "postUrl": "https://www.kolaynota.com/zeynep-bastik-ara-kolay-nota-ve-piyano-notasi/",
     "postPublished": "August 18, 2022",
@@ -2205,6 +2372,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/turkuler-210x136.jpg",
     "postTitle": "Başındaki Yazmayı Sarıya mı Boyadın – Nota",
     "postUrl": "https://www.kolaynota.com/basindaki-yazmayi-sariya-mi-boyadin-nota/",
     "postPublished": "August 17, 2022",
@@ -2213,6 +2381,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2021/01/piyano-notalari-210x136.jpg",
     "postTitle": "Glimpse of Us – Piyano Notası",
     "postUrl": "https://www.kolaynota.com/glimpse-of-us-piyano-notasi/",
     "postPublished": "August 16, 2022",
@@ -2222,6 +2391,12 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2022/08/no1-melek-mosso-210x136.jpg",
     "postTitle": "Yarım Kalan Sigara – No.1 feat Melek Mosso",
     "postUrl": "https://www.kolaynota.com/yarim-kalan-sigara-no-1-feat-melek-mosso/",
     "postPublished": "August 14, 2022",
@@ -2232,6 +2407,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2022/08/ilhan-irem-210x136.jpg",
     "postTitle": "İlhan İrem – İşte Hayat – Nota",
     "postUrl": "https://www.kolaynota.com/ilhan-irem-iste-hayat-nota/",
     "postPublished": "August 11, 2022",
@@ -2240,6 +2416,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2022/08/sena-sener-210x136.jpg",
     "postTitle": "Sena Şener – Porselen Kalbim – Nota",
     "postUrl": "https://www.kolaynota.com/sena-sener-porselen-kalbim-nota/",
     "postPublished": "August 09, 2022",
@@ -2250,6 +2427,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/sanat-210x136.jpg",
     "postTitle": "Gönül Penceresinden Ansızın Bakıp Geçtin – Nota",
     "postUrl": "https://www.kolaynota.com/gonul-penceresinden-ansizin-bakip-gectin-nota/",
     "postPublished": "August 08, 2022",
@@ -2258,6 +2436,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2022/08/ate-210x136.jpg",
     "postTitle": "Ate – Diğer Yarım – Nota",
     "postUrl": "https://www.kolaynota.com/ate-diger-yarim-nota/",
     "postPublished": "August 07, 2022",
@@ -2267,11 +2446,7 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/sanat-210x136.jpg",
     "postTitle": "Dediler Zamanla Hep Azalırmış Sevgiler – Nota",
     "postUrl": "https://www.kolaynota.com/dediler-zamanla-hep-azalirmis-sevgiler-nota/",
     "postPublished": "August 05, 2022",
@@ -2282,6 +2457,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/12/madrigal-210x136.jpg",
     "postTitle": "Madrigal – Dip – Kolay Nota ve Piyano Notası",
     "postUrl": "https://www.kolaynota.com/madrigal-dip-kolay-nota-ve-piyano-notasi/",
     "postPublished": "August 03, 2022",
@@ -2292,6 +2468,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/12/baris-210x136.jpg",
     "postTitle": "Barış Manço – Dört Kapı – Nota",
     "postUrl": "https://www.kolaynota.com/baris-manco-dort-kapi-nota/",
     "postPublished": "August 01, 2022",
@@ -2300,6 +2477,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2022/07/interstellar-210x136.jpg",
     "postTitle": "Interstellar – Piyano Notası",
     "postUrl": "https://www.kolaynota.com/interstellar-piyano-notasi/",
     "postPublished": "July 30, 2022",
@@ -2310,6 +2488,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/neset_ertas_2-210x136.jpg",
     "postTitle": "Cahildim Dünyanın Rengine Kandım – Nota",
     "postUrl": "https://www.kolaynota.com/cahildim-dunyanin-rengine-kandim-nota/",
     "postPublished": "July 29, 2022",
@@ -2318,6 +2497,12 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2022/07/kofn-210x136.jpg",
     "postTitle": "KÖFN – Bi’ Tek Ben Anlarım – Nota",
     "postUrl": "https://www.kolaynota.com/kofn-bi-tek-ben-anlarim-nota/",
     "postPublished": "July 27, 2022",
@@ -2328,6 +2513,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2022/07/semiramis-pekkan-210x136.jpg",
     "postTitle": "Bana Yalan Söylediler Nota",
     "postUrl": "https://www.kolaynota.com/bana-yalan-soylediler-nota/",
     "postPublished": "July 25, 2022",
@@ -2336,6 +2522,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/turkuler-210x136.jpg",
     "postTitle": "Güvercinim Süt Beyaz Notaları",
     "postUrl": "https://www.kolaynota.com/guvercinim-sut-beyaz-notalari/",
     "postPublished": "July 23, 2022",
@@ -2345,6 +2532,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/tanju_okan_2-210x136.jpg",
     "postTitle": "Tanju Okan – Hasret – Do Re Mi ve Kolay Nota",
     "postUrl": "https://www.kolaynota.com/tanju-okan-hasret-do-re-mi-ve-kolay-nota/",
     "postPublished": "July 21, 2022",
@@ -2353,6 +2541,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2021/01/piyano-notalari-210x136.jpg",
     "postTitle": "Beyer – Melodi – Op.101 No.60 – Piyano Notası",
     "postUrl": "https://www.kolaynota.com/beyer-melodi-op-101-no-60-piyano-notasi/",
     "postPublished": "July 20, 2022",
@@ -2360,11 +2549,6 @@
       "https://www.kolaynota.com/wp-content/uploads/2022/07/Beyer_Melodi_kolay.jpg",
       "https://www.kolaynota.com/wp-content/uploads/2022/07/Beyer_Melodi.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "Diyarbekir Yoluna – Delalım Nota",
@@ -2412,6 +2596,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Ben Gamlı Hazan Notaları",
     "postUrl": "https://www.kolaynota.com/ben-gamli-hazan-notalari/",
     "postPublished": "July 12, 2022",
@@ -2452,11 +2641,6 @@
       "https://www.kolaynota.com/wp-content/uploads/2022/07/Castle_in_the_sky-1.jpg",
       "https://www.kolaynota.com/wp-content/uploads/2022/07/Castle_in_the_sky-2.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "Dök Zülfünü Meydana Gel Nota",
@@ -2502,6 +2686,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Bach – Sol Minör Menuet Piyano Notası",
     "postUrl": "https://www.kolaynota.com/bach-sol-minor-menuet-piyano-notasi/",
     "postPublished": "June 20, 2022",
@@ -2542,11 +2731,6 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2022/06/Mevlam_Gul_Diyerek_kolay-724x1024.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "maNga – Dursun Zaman Notaları",
@@ -2597,6 +2781,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "İncecikten Bir Kar Yağar Nota",
     "postUrl": "https://www.kolaynota.com/incecikten-bir-kar-yagar-nota/",
     "postPublished": "June 01, 2022",
@@ -2635,11 +2824,6 @@
     "postTitle": "Another Love – Kolay Piyano Notası",
     "postUrl": "https://www.kolaynota.com/another-love-kolay-piyano-notasi/",
     "postPublished": "May 27, 2022",
-    "notaImages": []
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
     "notaImages": []
   },
   {
@@ -2688,6 +2872,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Por una Cabeza Notaları",
     "postUrl": "https://www.kolaynota.com/por-una-cabeza-notalari/",
     "postPublished": "May 16, 2022",
@@ -2728,11 +2917,6 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2022/05/Bosu_Bosuna_kolay.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "Maroon 5 – Memories Notaları",
@@ -2780,6 +2964,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Şu Gelen Atlı mıdır Notaları",
     "postUrl": "https://www.kolaynota.com/su-gelen-atli-midir-notalari/",
     "postPublished": "May 04, 2022",
@@ -2824,11 +3013,6 @@
       "https://www.kolaynota.com/wp-content/uploads/2022/04/Sen_Affetsen_Ben_Affetmem_piy-1.jpg",
       "https://www.kolaynota.com/wp-content/uploads/2022/04/Sen_Affetsen_Ben_Affetmem_piy-2.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "Let Me Down Slowly Piyano Notası",
@@ -2879,6 +3063,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "İlle de Roman Olsun Notası",
     "postUrl": "https://www.kolaynota.com/ille-de-roman-olsun-notasi/",
     "postPublished": "April 16, 2022",
@@ -2921,11 +3110,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Baha – Kutupta Yaz Gibi Notaları",
     "postUrl": "https://www.kolaynota.com/baha-kutupta-yaz-gibi-notalari/",
     "postPublished": "April 07, 2022",
@@ -2966,6 +3150,11 @@
       "https://www.kolaynota.com/wp-content/uploads/2022/04/Manolyam_Mi_karar.jpg",
       "https://www.kolaynota.com/wp-content/uploads/2022/04/Manolyam_La_karar.jpg"
     ]
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
   },
   {
     "postTitle": "Sar Makarayı – Çocuk Şarkısı Notaları",
@@ -3012,11 +3201,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Dolu Kadehi Ters Tut – Gitme Piyano Notası",
     "postUrl": "https://www.kolaynota.com/dolu-kadehi-ters-tut-gitme-piyano-notasi/",
     "postPublished": "March 21, 2022",
@@ -3057,6 +3241,11 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2022/03/Yakamoz_kolaynota.jpg"
     ]
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
   },
   {
     "postTitle": "Piyano İçin 5 Kolay Etüt",
@@ -3114,11 +3303,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Kediyi Seviyorsan Alkışla Notaları",
     "postUrl": "https://www.kolaynota.com/kediyi-seviyorsan-alkisla-notalari/",
     "postPublished": "March 03, 2022",
@@ -3167,6 +3351,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Ben Ne Yangınlar Gördüm Notaları",
     "postUrl": "https://www.kolaynota.com/ben-ne-yanginlar-gordum-notalari/",
     "postPublished": "February 23, 2022",
@@ -3210,11 +3399,6 @@
       "https://www.kolaynota.com/wp-content/uploads/2022/02/40_Senfoni_piy-1.jpg",
       "https://www.kolaynota.com/wp-content/uploads/2022/02/40_Senfoni_piy-2.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "Bach – Do Majör Prelüd Piyano Notası",
@@ -3263,6 +3447,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Yalgızam Do Re Mi Kolay ve Piyano Notaları",
     "postUrl": "https://www.kolaynota.com/yalgizam-do-re-mi-kolay-ve-piyano-notalari/",
     "postPublished": "February 03, 2022",
@@ -3306,11 +3495,6 @@
       "https://www.kolaynota.com/wp-content/uploads/2022/01/Kul-1.jpg",
       "https://www.kolaynota.com/wp-content/uploads/2022/01/Kul-2.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "Gel Yüzünü Rüyamızda Görelim Notaları",
@@ -3357,6 +3541,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Fly Me To The Moon Kolay ve Piyano Notaları",
     "postUrl": "https://www.kolaynota.com/fly-me-to-the-moon-kolay-ve-piyano-notalari/",
     "postPublished": "January 13, 2022",
@@ -3401,11 +3590,6 @@
       "https://www.kolaynota.com/wp-content/uploads/2021/12/River_Flows_in_You_kolay_piyano-2.jpg",
       "https://www.kolaynota.com/wp-content/uploads/2021/12/River_Flows_in_You_kolay_piyano-3.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "Kadifeden Kesesi Do Re Mi ve Kolay Notasyon",
@@ -3457,6 +3641,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Ferdi Özbeğen – Ağla Halime Notaları",
     "postUrl": "https://www.kolaynota.com/ferdi-ozbegen-agla-halime-notalari/",
     "postPublished": "December 14, 2021",
@@ -3502,11 +3691,6 @@
       "https://www.kolaynota.com/wp-content/uploads/2021/12/Senin_Olmaya_Geldim_kolay-1.jpg",
       "https://www.kolaynota.com/wp-content/uploads/2021/12/Senin_Olmaya_Geldim_kolay-2.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "Mevlana Oyun Havası Do Re Mi ve Kolay Nota",
@@ -3555,6 +3739,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Müslüm Gürses – Hangimiz Sevmedik Notaları",
     "postUrl": "https://www.kolaynota.com/muslum-gurses-hangimiz-sevmedik-notalari/",
     "postPublished": "November 22, 2021",
@@ -3601,11 +3790,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Atatürk Çocukları – Kolay ve Do Re Mi Nota",
     "postUrl": "https://www.kolaynota.com/ataturk-cocuklari-kolay-ve-do-re-mi-nota/",
     "postPublished": "November 08, 2021",
@@ -3645,6 +3829,11 @@
       "https://www.kolaynota.com/wp-content/uploads/2021/10/Faded_kolay_piyano-1.jpg",
       "https://www.kolaynota.com/wp-content/uploads/2021/10/Faded_kolay_piyano-2.jpg"
     ]
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
   },
   {
     "postTitle": "Evdeki Saat – Uzunlar V1 Notaları",
@@ -3691,11 +3880,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Aşka Gönül Vermem Aşka İnanmam Notaları",
     "postUrl": "https://www.kolaynota.com/aska-gonul-vermem-aska-inanmam-notalari/",
     "postPublished": "October 18, 2021",
@@ -3738,6 +3922,11 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2021/10/Anlat_Bana_Ogretmenim.jpg"
     ]
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
   },
   {
     "postTitle": "Ata’m Mustafa Kemal Paşam Notaları",
@@ -3783,11 +3972,6 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2021/09/Yangin_Olur_Biz_Yangina_Gideriz.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "Shape Of You Piyano Notası",
@@ -3836,6 +4020,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Kul Olayım Kalem Tutan Ellere Notaları",
     "postUrl": "https://www.kolaynota.com/kul-olayim-kalem-tutan-ellere-notalari/",
     "postPublished": "September 20, 2021",
@@ -3876,11 +4065,6 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2021/09/Mendili_Oyaladim.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "Jest Oldu Kolay Nota ve Piyano Düzenlemesi",
@@ -3928,6 +4112,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Şebnem Ferah – Sil Baştan Notaları",
     "postUrl": "https://www.kolaynota.com/sebnem-ferah-sil-bastan-notalari/",
     "postPublished": "August 30, 2021",
@@ -3971,11 +4160,7 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2021/08/yuzyuzeyken-konusuruz-210x136.jpg",
     "postTitle": "Yüzyüzeyken Konuşuruz – Sen Varsın Diye Notaları",
     "postUrl": "https://www.kolaynota.com/yuzyuzeyken-konusuruz-sen-varsin-diye-notalari/",
     "postPublished": "August 16, 2021",
@@ -3988,6 +4173,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/muslum_gurses-1-210x136.jpg",
     "postTitle": "Müslüm Gürses – İtirazım Var Notaları",
     "postUrl": "https://www.kolaynota.com/muslum-gurses-itirazim-var-notalari/",
     "postPublished": "August 15, 2021",
@@ -3997,6 +4183,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/turkuler-210x136.jpg",
     "postTitle": "Tin Tin Tinimini Hanım Notaları",
     "postUrl": "https://www.kolaynota.com/tin-tin-tinimini-hanim-notalari/",
     "postPublished": "August 14, 2021",
@@ -4005,6 +4192,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2021/08/bulut-kus-210x136.jpg",
     "postTitle": "Burak Bulut & Kurtuluş Kuş – Nabız Notaları",
     "postUrl": "https://www.kolaynota.com/burak-bulut-kurtulus-kus-nabiz-notalari/",
     "postPublished": "August 12, 2021",
@@ -4015,6 +4203,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/12/baris-210x136.jpg",
     "postTitle": "Barış Manço – Kol Düğmeleri Notaları",
     "postUrl": "https://www.kolaynota.com/baris-manco-kol-dugmeleri-notalari/",
     "postPublished": "August 10, 2021",
@@ -4024,6 +4213,12 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/turkuler-210x136.jpg",
     "postTitle": "Yürüyorum Dikenlerin Üstünde Türkü Notaları",
     "postUrl": "https://www.kolaynota.com/yuruyorum-dikenlerin-ustunde-turku-notalari/",
     "postPublished": "August 05, 2021",
@@ -4032,6 +4227,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2021/03/kirac-210x136.jpg",
     "postTitle": "Oysa Bir Umuttu Notaları",
     "postUrl": "https://www.kolaynota.com/oysa-bir-umuttu-notalari/",
     "postPublished": "August 02, 2021",
@@ -4042,6 +4238,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/film_ve_dizi_2-210x136.jpg",
     "postTitle": "Dila Hanım Film Müziği Notaları",
     "postUrl": "https://www.kolaynota.com/dila-hanim-film-muzigi-notalari/",
     "postPublished": "August 01, 2021",
@@ -4050,6 +4247,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2021/07/oya-bora-210x136.jpg",
     "postTitle": "Oya Bora – Sevme Zamanı Notaları",
     "postUrl": "https://www.kolaynota.com/oya-bora-sevme-zamani-notalari/",
     "postPublished": "July 31, 2021",
@@ -4058,17 +4256,13 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2021/02/ece-mumay-210x136.jpg",
     "postTitle": "Ece Mumay – Peri Notaları",
     "postUrl": "https://www.kolaynota.com/ece-mumay-peri-notalari/",
     "postPublished": "July 30, 2021",
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2021/07/Peri.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "Beyaz Skandalım Piyano ve Kolay Notaları",
@@ -4116,6 +4310,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Pınara Gel ki Görem Türkü Notaları",
     "postUrl": "https://www.kolaynota.com/pinara-gelki-gorem-turku-notalari/",
     "postPublished": "July 16, 2021",
@@ -4156,11 +4355,6 @@
       "https://www.kolaynota.com/wp-content/uploads/2021/07/Derinden-1.jpg",
       "https://www.kolaynota.com/wp-content/uploads/2021/07/Derinden-2.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "Candan Erçetin – Sensizlik Notaları",
@@ -4204,6 +4398,11 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2021/07/Bella.jpg"
     ]
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
   },
   {
     "postTitle": "Ey Büt-i Nev Eda Şarkı Notaları",
@@ -4251,11 +4450,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Yalan Dünya – Bir Garip Yolcuyum Notaları",
     "postUrl": "https://www.kolaynota.com/yalan-dunya-bir-garip-yolcuyum-notalari/",
     "postPublished": "June 22, 2021",
@@ -4295,6 +4489,11 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2021/06/Kapildim_Gidiyorum.jpg"
     ]
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
   },
   {
     "postTitle": "Denizin Dibinde Hatcem Notaları",
@@ -4337,11 +4536,6 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2021/06/Sen_De_Gidersen.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "Kuş Sesleri Ovalara Yayılır Notaları",
@@ -4387,6 +4581,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Kim Bu Gözlerindeki Yabancı Notaları",
     "postUrl": "https://www.kolaynota.com/kim-bu-gozlerindeki-yabanci-notalari/",
     "postPublished": "June 03, 2021",
@@ -4429,11 +4628,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Amelie Film Müziği Kolay Piyano Notaları",
     "postUrl": "https://www.kolaynota.com/amelie-film-muzigi-kolay-piyano-notalari/",
     "postPublished": "May 29, 2021",
@@ -4474,6 +4668,11 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2021/05/Laf_Aramizda.jpg"
     ]
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
   },
   {
     "postTitle": "Son Verdim Kalbimin İşine Notaları",
@@ -4529,11 +4728,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Çomar Do Re Mi Melodika Notaları",
     "postUrl": "https://www.kolaynota.com/comar-do-re-mi-melodika-notalari/",
     "postPublished": "May 09, 2021",
@@ -4576,6 +4770,11 @@
       "https://www.kolaynota.com/wp-content/uploads/2021/05/Acem_Kizi_kolaypiyano-1.jpg",
       "https://www.kolaynota.com/wp-content/uploads/2021/05/Acem_Kizi_kolaypiyano-2.jpg"
     ]
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
   },
   {
     "postTitle": "Bırak Beni Böyle Notaları",
@@ -4624,11 +4823,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Beni Kendinden Kurtar Notaları",
     "postUrl": "https://www.kolaynota.com/beni-kendinden-kurtar-notalari/",
     "postPublished": "April 25, 2021",
@@ -4672,6 +4866,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Tarkan – İnci Tanem Notaları",
     "postUrl": "https://www.kolaynota.com/tarkan-inci-tanem-notalari/",
     "postPublished": "April 19, 2021",
@@ -4711,11 +4910,6 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2021/04/Cemilem.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "Erkin Koray – Anma Arkadaş Notaları",
@@ -4760,6 +4954,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Ondokuz Mayıs Marşı Notaları",
     "postUrl": "https://www.kolaynota.com/ondokuz-mayis-marsi-notalari/",
     "postPublished": "April 06, 2021",
@@ -4799,11 +4998,6 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2021/04/Hep_Sonradan.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "Bir Küçücük Aslancık Varmış Notaları",
@@ -4850,6 +5044,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Yar Demedin Notaları",
     "postUrl": "https://www.kolaynota.com/yar-demedin-notalari/",
     "postPublished": "March 28, 2021",
@@ -4893,11 +5092,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Talihim Yok Bahtım Kara Notaları",
     "postUrl": "https://www.kolaynota.com/talihim-yok-bahtim-kara-notalari/",
     "postPublished": "March 21, 2021",
@@ -4938,6 +5132,11 @@
       "https://www.kolaynota.com/wp-content/uploads/2021/03/Oyle_Kolaysa_piy-1.jpg",
       "https://www.kolaynota.com/wp-content/uploads/2021/03/Oyle_Kolaysa_piy-2.jpg"
     ]
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
   },
   {
     "postTitle": "Havana Piyano Notaları – Nasıl Çalınır",
@@ -4984,11 +5183,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Kendi Yolumuzda Melodika Notaları",
     "postUrl": "https://www.kolaynota.com/kendi-yolumuzda-melodika-notalari/",
     "postPublished": "March 06, 2021",
@@ -5030,6 +5224,11 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2021/03/Arzu_Gizim.jpg"
     ]
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
   },
   {
     "postTitle": "Mert Kıyak – Gel | Do Re Mi Melodika Notaları",
@@ -5074,11 +5273,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Aşk Sana Benzer Do Re Mi Melodika Notaları",
     "postUrl": "https://www.kolaynota.com/ask-sana-benzer-do-re-mi-melodika-notalari/",
     "postPublished": "February 26, 2021",
@@ -5115,6 +5309,11 @@
       "https://www.kolaynota.com/wp-content/uploads/2021/02/Ievan_Polkka_kalimba.jpg",
       "https://www.kolaynota.com/wp-content/uploads/2021/02/Ievan_Polkka_piyano_kolay.jpg"
     ]
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
   },
   {
     "postTitle": "Boş Vere Boş Vere Notaları",
@@ -5158,11 +5357,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Emir Can İğrek – Müzik Kutusu Notaları",
     "postUrl": "https://www.kolaynota.com/emir-can-igrek-muzik-kutusu-notalari/",
     "postPublished": "February 16, 2021",
@@ -5201,6 +5395,11 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2021/02/Her_Sey_Senle.jpg"
     ]
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
   },
   {
     "postTitle": "Kaderimin Oyunu Do Re Mi Melodika Notaları",
@@ -5247,11 +5446,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Senede Bir Gün Notaları",
     "postUrl": "https://www.kolaynota.com/senede-bir-gun-notalari/",
     "postPublished": "February 06, 2021",
@@ -5296,6 +5490,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Çık Çıkalım Çayıra Do Re Mi Melodika Notaları",
     "postUrl": "https://www.kolaynota.com/cik-cikalim-cayira-do-re-mi-melodika-notalari/",
     "postPublished": "January 31, 2021",
@@ -5335,11 +5534,6 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2021/01/Doyulur_mu_Doyulur_mu.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "Okul Yolunda Do Re Mi Melodika Notaları",
@@ -5386,6 +5580,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Müzik Dersi Do Re Mi Melodika Notaları",
     "postUrl": "https://www.kolaynota.com/muzik-dersi-do-re-mi-melodika-notalari/",
     "postPublished": "January 23, 2021",
@@ -5425,11 +5624,6 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2021/01/Ay_Dogar_Cini_Cini.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "Hoşçakal Do Re Mi Notaları",
@@ -5476,6 +5670,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Gölgesinde Mevsimler Boyu Oturduğumuz Notaları",
     "postUrl": "https://www.kolaynota.com/golgesinde-mevsimler-boyu-oturdugumuz-notalari/",
     "postPublished": "January 16, 2021",
@@ -5514,11 +5713,6 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2021/01/Mey_kolay-1.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "Dilberim Do Re Mi ve Kolay Notaları",
@@ -5563,6 +5757,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Ayva Çiçek Açmış Notaları",
     "postUrl": "https://www.kolaynota.com/ayva-cicek-acmis-notalari/",
     "postPublished": "January 09, 2021",
@@ -5603,11 +5802,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Erik Dalı Gevrektir Notaları",
     "postUrl": "https://www.kolaynota.com/erik-dali-gevrektir-notalari/",
     "postPublished": "January 07, 2021",
@@ -5645,6 +5839,11 @@
     "postTitle": "Nasrettin Hoca – Pembe Pembe Yanaklı Nota",
     "postUrl": "https://www.kolaynota.com/nasrettin-hoca-pembe-pembe-yanakli-nota/",
     "postPublished": "January 05, 2021",
+    "notaImages": []
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
     "notaImages": []
   },
   {
@@ -5689,11 +5888,6 @@
     "notaImages": []
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Ölürüm Hasretinle Notaları – Do Re Mi",
     "postUrl": "https://www.kolaynota.com/olurum-hasretinle-notalari-do-re-mi/",
     "postPublished": "January 01, 2021",
@@ -5729,6 +5923,11 @@
     "postTitle": "Olmaz Olsun Notaları",
     "postUrl": "https://www.kolaynota.com/olmaz-olsun-notalari/",
     "postPublished": "December 29, 2020",
+    "notaImages": []
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
     "notaImages": []
   },
   {
@@ -5768,11 +5967,6 @@
     "postTitle": "Küçüğüm Kolay Piyano Notaları",
     "postUrl": "https://www.kolaynota.com/kucugum-kolay-piyano-notalari/",
     "postPublished": "December 27, 2020",
-    "notaImages": []
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
     "notaImages": []
   },
   {
@@ -5816,6 +6010,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Ay Yüzlüm Piyano Notaları",
     "postUrl": "https://www.kolaynota.com/ay-yuzlum-piyano-notalari/",
     "postPublished": "December 25, 2020",
@@ -5849,11 +6048,6 @@
       "https://www.kolaynota.com/wp-content/uploads/2020/12/Yalniz_Kalan_Ruhumun_kolay.jpg",
       "https://www.kolaynota.com/wp-content/uploads/2020/12/Yalniz_Kalan_Ruhumun.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "Kadehinde Zehir Olsa Nota",
@@ -5891,6 +6085,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Leblebi Koydum Tasa Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/leblebi-koydum-tasa-do-re-mi-notalari/",
     "postPublished": "December 19, 2020",
@@ -5925,11 +6124,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Ayrılmalıyız Artık Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/ayrilmaliyiz-artik-do-re-mi-notalari/",
     "postPublished": "December 17, 2020",
@@ -5957,6 +6151,11 @@
     "postTitle": "Yüce Dağ Başında Kar Boran Boran Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/yuce-dag-basinda-kar-boran-boran-do-re-mi-notalari/",
     "postPublished": "December 14, 2020",
+    "notaImages": []
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
     "notaImages": []
   },
   {
@@ -5992,11 +6191,6 @@
     "postTitle": "Süpürgesi Yoncadan Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/supurgesi-yoncadan-do-re-mi-notalari/",
     "postPublished": "December 12, 2020",
-    "notaImages": []
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
     "notaImages": []
   },
   {
@@ -6036,6 +6230,11 @@
     "notaImages": []
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Takvimlerden Haberin Yok mu? – Kolay Notası",
     "postUrl": "https://www.kolaynota.com/takvimlerden-haberin-yok-mu-kolay-notasi/",
     "postPublished": "December 05, 2020",
@@ -6069,11 +6268,6 @@
     "postTitle": "Ederlezi Piyano Notası",
     "postUrl": "https://www.kolaynota.com/ederlezi-piyano-notasi/",
     "postPublished": "December 04, 2020",
-    "notaImages": []
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
     "notaImages": []
   },
   {
@@ -6117,6 +6311,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Dert Bende Derman Sende – Kolay Notası",
     "postUrl": "https://www.kolaynota.com/dert-bende-derman-sende-kolay-notasi/",
     "postPublished": "November 28, 2020",
@@ -6144,11 +6343,6 @@
     "postTitle": "Ellerim Parmaklarım – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/ellerim-parmaklarim-do-re-mi-notalari/",
     "postPublished": "November 25, 2020",
-    "notaImages": []
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
     "notaImages": []
   },
   {
@@ -6189,6 +6383,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Sözlerimi Geri Alamam – Kolay Piyano Notası",
     "postUrl": "https://www.kolaynota.com/sozlerimi-geri-alamam-kolay-piyano-notasi/",
     "postPublished": "November 18, 2020",
@@ -6221,11 +6420,6 @@
     "postTitle": "Islak Islak – Kolay Notası",
     "postUrl": "https://www.kolaynota.com/islak-islak-kolay-notasi/",
     "postPublished": "November 15, 2020",
-    "notaImages": []
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
     "notaImages": []
   },
   {
@@ -6264,6 +6458,11 @@
     "notaImages": []
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Hoş Bilezik – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/hos-bilezik-do-re-mi-notalari/",
     "postPublished": "November 11, 2020",
@@ -6298,11 +6497,7 @@
     "notaImages": []
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/11/bahadir-saglam-210x136.jpg",
     "postTitle": "Kır Papatyası – Kolay Notası",
     "postUrl": "https://www.kolaynota.com/kir-papatyasi-kolay-notasi/",
     "postPublished": "November 08, 2020",
@@ -6312,6 +6507,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2021/01/kalimba-notalari-210x136.jpg",
     "postTitle": "Ateş Böceğim – Kalimba Notaları",
     "postUrl": "https://www.kolaynota.com/ates-bocegim-kalimba-notalari/",
     "postPublished": "November 07, 2020",
@@ -6320,6 +6516,7 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/MARSLAR_2-210x136.jpg",
     "postTitle": "Ata’m – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/atam-do-re-mi-notalari/",
     "postPublished": "November 06, 2020",
@@ -6328,12 +6525,14 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2021/01/piyano-notalari-210x136.jpg",
     "postTitle": "Yine Bir Gülnihal – Piyano Notası – 2",
     "postUrl": "https://www.kolaynota.com/yine-bir-gulnihal-piyano-notasi-2/",
     "postPublished": "November 05, 2020",
     "notaImages": []
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/sanat-210x136.jpg",
     "postTitle": "Yemeni Bağlamış – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/yemeni-baglamis-do-re-mi-notalari/",
     "postPublished": "November 04, 2020",
@@ -6342,24 +6541,33 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/sanat-210x136.jpg",
     "postTitle": "Kimseye Etmem Şikayet – Kolay Notası",
     "postUrl": "https://www.kolaynota.com/kimseye-etmem-sikayet-kolay-notasi/",
     "postPublished": "November 04, 2020",
     "notaImages": []
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2021/01/cocuk-sarkilari-210x136.jpg",
     "postTitle": "Dere – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/dere-do-re-mi-notalari/",
     "postPublished": "November 03, 2020",
     "notaImages": []
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/11/ibrahim-erkal-210x136.jpg",
     "postTitle": "Çare Gelmez – Kolay Notası",
     "postUrl": "https://www.kolaynota.com/care-gelmez-kolay-notasi/",
     "postPublished": "November 02, 2020",
     "notaImages": []
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/yildiz-tilbe_2-210x136.jpg",
     "postTitle": "Vursalar Ölemem – Kolay Notası",
     "postUrl": "https://www.kolaynota.com/vursalar-olemem-kolay-notasi/",
     "postPublished": "November 01, 2020",
@@ -6368,17 +6576,13 @@
     ]
   },
   {
+    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/turkuler-210x136.jpg",
     "postTitle": "Sazıma – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/sazima-do-re-mi-notalari/",
     "postPublished": "October 31, 2020",
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2020/10/Sazima.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "Mavi Yeleğin Oğlan – Do Re Mi Notaları",
@@ -6415,6 +6619,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Silifke’nin Yoğurdu – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/silifkenin-yogurdu-do-re-mi-notalari/",
     "postPublished": "October 27, 2020",
@@ -6447,11 +6656,6 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2020/10/Kalp_Kalbe_Karsi_Derler_kolay.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "Neyim Var – Do Re Mi Notaları",
@@ -6488,6 +6692,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Dance Time – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/dance-time-do-re-mi-notalari/",
     "postPublished": "October 21, 2020",
@@ -6520,11 +6729,6 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2020/10/Bella_Ciao.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "Mektup – Kolay Notası",
@@ -6564,6 +6768,11 @@
     "notaImages": []
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Oy Liman – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/oy-liman-do-re-mi-notalari/",
     "postPublished": "October 16, 2020",
@@ -6597,11 +6806,6 @@
       "https://www.kolaynota.com/wp-content/uploads/2020/10/Ankara_Marsi.jpg",
       "https://www.kolaynota.com/wp-content/uploads/2020/10/Ankara_Marsi_piy.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "Cumhuriyet – Do Re Mi Notaları",
@@ -6641,6 +6845,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Mavi Türkü – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/mavi-turku-do-re-mi-notalari/",
     "postPublished": "October 09, 2020",
@@ -6673,11 +6882,6 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2020/10/Neler_Oluyor_Hayatta.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "Jane Maryam – Piyano Notası",
@@ -6720,6 +6924,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Sarmaşık Gülleri – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/sarmasik-gulleri-do-re-mi-notalari/",
     "postPublished": "October 02, 2020",
@@ -6754,11 +6963,6 @@
     "postTitle": "Çeşme – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/cesme-do-re-mi-notalari/",
     "postPublished": "September 30, 2020",
-    "notaImages": []
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
     "notaImages": []
   },
   {
@@ -6800,6 +7004,11 @@
     "notaImages": []
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Ada Sahilleri – Kolay Notası",
     "postUrl": "https://www.kolaynota.com/ada-sahilleri-kolay-notasi/",
     "postPublished": "September 26, 2020",
@@ -6836,11 +7045,6 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2020/09/Yalnizlar_Rihtimi.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "Yıldızların Altında – Kalimba Notaları",
@@ -6885,6 +7089,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Senden Bana Yar Olmaz – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/senden-bana-yar-olmaz-do-re-mi-notalari/",
     "postPublished": "September 19, 2020",
@@ -6927,11 +7136,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Uzun İnce Bir Yoldayım – Kalimba Notaları",
     "postUrl": "https://www.kolaynota.com/uzun-ince-bir-yoldayim-kalimba-notalari/",
     "postPublished": "September 16, 2020",
@@ -6968,6 +7172,11 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2020/09/Ben_Kalender_Mesrebim.jpg"
     ]
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
   },
   {
     "postTitle": "Dokuzuncu Senfoni – Kalimba Notaları",
@@ -7014,11 +7223,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Hangi Bağın Bağbanısan – Kolay Bağlama Notası",
     "postUrl": "https://www.kolaynota.com/hangi-bagin-bagbanisan-kolay-baglama-notasi/",
     "postPublished": "September 11, 2020",
@@ -7052,6 +7256,11 @@
     "postTitle": "İçimden Gelmiyor – Kolay Notası",
     "postUrl": "https://www.kolaynota.com/icimden-gelmiyor-kolay-notasi/",
     "postPublished": "September 10, 2020",
+    "notaImages": []
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
     "notaImages": []
   },
   {
@@ -7094,11 +7303,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Değmen Benim Gamlı Yaslı Gönlüme Do Re Mi Melodika Notaları",
     "postUrl": "https://www.kolaynota.com/deymen-benim-gamli-yasli-gonlume-do-re-mi-notalari/",
     "postPublished": "September 08, 2020",
@@ -7134,6 +7338,11 @@
     "postTitle": "Giydiğim Aldır – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/giydigim-aldir-do-re-mi-notalari/",
     "postPublished": "September 05, 2020",
+    "notaImages": []
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
     "notaImages": []
   },
   {
@@ -7178,11 +7387,6 @@
     "notaImages": []
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Kınıfır Bedrenk Olur – Kolay Notası",
     "postUrl": "https://www.kolaynota.com/kinifir-bedrenk-olur-kolay-notasi/",
     "postPublished": "September 03, 2020",
@@ -7219,6 +7423,11 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2020/09/Su_Kislanin_Kapisina.jpg"
     ]
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
   },
   {
     "postTitle": "Nihavent Longa – Kolay Notası",
@@ -7263,11 +7472,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Küçük Çoban – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/kucuk-coban-do-re-mi-notalari/",
     "postPublished": "August 27, 2020",
@@ -7299,6 +7503,11 @@
       "https://www.kolaynota.com/wp-content/uploads/2020/08/Han_Sarhos_kolaynota_MI.jpg",
       "https://www.kolaynota.com/wp-content/uploads/2020/08/Han_Sarhos_kolaynota_LA.jpg"
     ]
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
   },
   {
     "postTitle": "Nayino – Kolay Piyano Notası",
@@ -7340,11 +7549,6 @@
       "https://www.kolaynota.com/wp-content/uploads/2020/08/ordunun_dereleri_kolay_baglama.jpg",
       "https://www.kolaynota.com/wp-content/uploads/2020/08/ordunun_dereleri_baglama.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "Seven Ne Yapmaz – Kolay Piyano Notası",
@@ -7390,6 +7594,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Seven Ne Yapmaz – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/seven-ne-yapmaz-do-re-mi-notalari/",
     "postPublished": "August 18, 2020",
@@ -7423,11 +7632,6 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2020/08/Siire_Gazele_kolaynota.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "Hastane Önünde İncir Ağacı – Kolay Piyano Notası",
@@ -7472,6 +7676,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Gökyüzünde Yalnız Gezen Yıldızlar – Kolay Notası",
     "postUrl": "https://www.kolaynota.com/gokyuzunde-yalniz-gezen-yildizlar-kolay-notasi/",
     "postPublished": "August 11, 2020",
@@ -7510,11 +7719,6 @@
     "postTitle": "Zor Aşk – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/zor-ask-do-re-mi-notalari/",
     "postPublished": "August 09, 2020",
-    "notaImages": []
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
     "notaImages": []
   },
   {
@@ -7561,6 +7765,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Adige Nıse / Adyge Nyse – Kolay Notası",
     "postUrl": "https://www.kolaynota.com/adige-nise-adyge-nyse-kolay-notasi/",
     "postPublished": "August 06, 2020",
@@ -7595,11 +7804,6 @@
     "notaImages": []
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Kara Tren Gelmez Mola – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/kara-tren-gelmez-mola-do-re-mi-notalari/",
     "postPublished": "August 05, 2020",
@@ -7631,6 +7835,11 @@
     "postTitle": "Gelevera Deresi – Kolay Piyano Notası",
     "postUrl": "https://www.kolaynota.com/gelevera-deresi-kolay-piyano-notasi/",
     "postPublished": "August 02, 2020",
+    "notaImages": []
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
     "notaImages": []
   },
   {
@@ -7673,11 +7882,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Hoşgeldin – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/hosgeldin-do-re-mi-notalari/",
     "postPublished": "July 30, 2020",
@@ -7718,6 +7922,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Söyle – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/soyle-do-re-mi-notalari/",
     "postPublished": "July 28, 2020",
@@ -7754,11 +7963,6 @@
     "postTitle": "Çay Taşı Çakmak Taşı – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/cay-tasi-cakmak-tasi-do-re-mi-notalari/",
     "postPublished": "July 27, 2020",
-    "notaImages": []
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
     "notaImages": []
   },
   {
@@ -7802,6 +8006,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Ağlama Bebek – Kolay Notası",
     "postUrl": "https://www.kolaynota.com/aglama-bebek-kolay-notasi/",
     "postPublished": "July 23, 2020",
@@ -7834,11 +8043,6 @@
     "postTitle": "Cennetten Çiçek – Kolay Notası",
     "postUrl": "https://www.kolaynota.com/cennetten-cicek-kolay-notasi/",
     "postPublished": "July 22, 2020",
-    "notaImages": []
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
     "notaImages": []
   },
   {
@@ -7876,6 +8080,11 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2020/07/Boyle_Olur_mu_-724x1024.jpg"
     ]
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
   },
   {
     "postTitle": "Biliyom – Kolay Notası",
@@ -7917,11 +8126,6 @@
     "notaImages": []
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Mardin Kapısından Atlayamadım Notaları",
     "postUrl": "https://www.kolaynota.com/mardin-kapisindan-atlayamadim-do-re-mi-notalari/",
     "postPublished": "July 16, 2020",
@@ -7959,6 +8163,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Hüseynik’ten Çıktım Şeher Yoluna – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/huseynikten-ciktim-seher-yoluna-do-re-mi-notalari/",
     "postPublished": "July 15, 2020",
@@ -7993,11 +8202,6 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2020/07/Askinla_Yana_Yana_piy.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "Kış Masalı – Do Re Mi Notaları – Güncellendi",
@@ -8045,6 +8249,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Hababam Sınıfı – Kolay Piyano Notası",
     "postUrl": "https://www.kolaynota.com/hababam-sinifi-kolay-piyano-notasi/",
     "postPublished": "July 11, 2020",
@@ -8081,11 +8290,6 @@
     "postTitle": "Urfa’ya Paşa Geldi – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/urfaya-pasa-geldi-do-re-mi-notalari/",
     "postPublished": "July 10, 2020",
-    "notaImages": []
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
     "notaImages": []
   },
   {
@@ -8131,6 +8335,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Gülmek İçin Yaratılmış – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/gulmek-icin-yaratilmis-do-re-mi-notalari/",
     "postPublished": "July 08, 2020",
@@ -8170,11 +8379,6 @@
       "https://www.kolaynota.com/wp-content/uploads/2020/07/Yigidim_Aslanim_piyano-1-724x1024.jpg",
       "https://www.kolaynota.com/wp-content/uploads/2020/07/Yigidim_Aslanim_piyano-2-724x1024.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "Ayletme Beni – Do Re Mi Notaları",
@@ -8219,6 +8423,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Hayde – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/hayde-do-re-mi-notalari/",
     "postPublished": "July 04, 2020",
@@ -8254,11 +8463,6 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2020/07/iste_gidiyorum_kolay.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "Aşk-ı Memnu – Kolay Notası",
@@ -8304,6 +8508,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Mihriban – Kolay Piyano Notası",
     "postUrl": "https://www.kolaynota.com/mihriban-kolay-piyano-notasi/",
     "postPublished": "June 30, 2020",
@@ -8343,11 +8552,6 @@
     "postTitle": "Arabamın Atları – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/arabamin-atlari-do-re-mi-notalari/",
     "postPublished": "June 29, 2020",
-    "notaImages": []
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
     "notaImages": []
   },
   {
@@ -8395,6 +8599,11 @@
     "notaImages": []
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Bağa Girdim Bağ Budanmış – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/baga-girdim-bag-budanmis-do-re-mi-notalari/",
     "postPublished": "June 27, 2020",
@@ -8428,11 +8637,6 @@
     "postTitle": "Sor – Allegretto – Klasik Gitar Notası",
     "postUrl": "https://www.kolaynota.com/sor-allegretto-klasik-gitar-notasi/",
     "postPublished": "June 25, 2020",
-    "notaImages": []
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
     "notaImages": []
   },
   {
@@ -8472,6 +8676,11 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2020/06/Hatirla_Sevgili_kolaypiyano.jpg"
     ]
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
   },
   {
     "postTitle": "Bad Guy – Kolay Notası",
@@ -8515,11 +8724,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Bülbülüm Altın Kafeste Notaları",
     "postUrl": "https://www.kolaynota.com/bulbulum-altin-kafeste-kolay-notasi/",
     "postPublished": "June 22, 2020",
@@ -8557,6 +8761,11 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2020/06/Ela_Gozlum_kolay_bag_notasi.jpg"
     ]
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
   },
   {
     "postTitle": "Sultan Süleyman – Kolay Notası",
@@ -8599,11 +8808,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Biz Aşkı Meleklerden Çaldık – Kolay Notası",
     "postUrl": "https://www.kolaynota.com/biz-aski-meleklerden-caldik-kolay-notasi/",
     "postPublished": "June 18, 2020",
@@ -8637,6 +8841,11 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2020/06/Unutamiyorum_piyano.jpg"
     ]
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
   },
   {
     "postTitle": "Çarliston – Do Re Mi Notaları",
@@ -8673,11 +8882,6 @@
       "https://www.kolaynota.com/wp-content/uploads/2020/06/dance_monkey_kolay_piyano-1.jpg",
       "https://www.kolaynota.com/wp-content/uploads/2020/06/dance_monkey_kolay_piyano-2.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "Üsküdar’a Gideriken – Katibim – Do Re Mi Notaları – v2",
@@ -8717,6 +8921,11 @@
       "https://www.kolaynota.com/wp-content/uploads/2020/06/Gecsin_Gunler_Haftalar_kolay_piyano-1.jpg",
       "https://www.kolaynota.com/wp-content/uploads/2020/06/Gecsin_Gunler_Haftalar_kolay_piyano-2.jpg"
     ]
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
   },
   {
     "postTitle": "Aşk Kırıntıları – Kolay Notası",
@@ -8761,11 +8970,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "İstanbul’da Sonbahar – Kolay Notası",
     "postUrl": "https://www.kolaynota.com/istanbulda-sonbahar-kolay-notasi/",
     "postPublished": "June 11, 2020",
@@ -8802,6 +9006,11 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2020/06/sanz-pavana.jpg"
     ]
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
   },
   {
     "postTitle": "Plevne Marşı – Kolay Piyano Notası",
@@ -8843,11 +9052,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Mutluluk Şarkısı – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/mutluluk-sarkisi-do-re-mi-notalari/",
     "postPublished": "June 07, 2020",
@@ -8880,6 +9084,11 @@
     "postTitle": "Erler Demine Destur Alalım – Kolay Notası",
     "postUrl": "https://www.kolaynota.com/erler-demine-destur-alalim-kolay-notasi/",
     "postPublished": "June 05, 2020",
+    "notaImages": []
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
     "notaImages": []
   },
   {
@@ -8921,11 +9130,6 @@
     "notaImages": []
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Sürünüyorum – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/surunuyorum-do-re-mi-notalari/",
     "postPublished": "June 03, 2020",
@@ -8963,6 +9167,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Köprüden Geçemedim – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/kopruden-gecemedim-do-re-mi-notalari/",
     "postPublished": "May 30, 2020",
@@ -8997,11 +9206,6 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2020/05/Sen_Benim_Sarkilarimsin_kolay_piyano.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "Ruhumda Sızı – Do Re Mi Notaları",
@@ -9047,6 +9251,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Nayino – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/nayino-do-re-mi-notalari/",
     "postPublished": "May 21, 2020",
@@ -9088,11 +9297,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Bursa’nın Ufak Tefek Taşları – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/bursanin-ufak-tefek-taslari-do-re-mi-notalari/",
     "postPublished": "May 16, 2020",
@@ -9131,6 +9335,11 @@
       "https://www.kolaynota.com/wp-content/uploads/2020/05/Hayat_Bayram_Olsa.jpg",
       "https://www.kolaynota.com/wp-content/uploads/2020/05/Hayat_Bayram_Olsa_piy.jpg"
     ]
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
   },
   {
     "postTitle": "Hoşgeldin – Kolay Piyano Notası",
@@ -9175,11 +9384,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Ahçik – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/ahcik-do-re-mi-notalari/",
     "postPublished": "May 11, 2020",
@@ -9215,6 +9419,11 @@
       "https://www.kolaynota.com/wp-content/uploads/2020/05/Benim_Annem_piyano-1.jpg",
       "https://www.kolaynota.com/wp-content/uploads/2020/05/Benim_Annem_piyano-2.jpg"
     ]
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
   },
   {
     "postTitle": "Ağlama Anne – Kolay Notası",
@@ -9261,11 +9470,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Atun Beni Denizlere – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/atun-beni-denizlere-do-re-mi-notalari/",
     "postPublished": "May 06, 2020",
@@ -9302,6 +9506,11 @@
       "https://www.kolaynota.com/wp-content/uploads/2020/05/incir-1.jpg",
       "https://www.kolaynota.com/wp-content/uploads/2020/05/incir-2.jpg"
     ]
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
   },
   {
     "postTitle": "Elfida – Kolay Piyano Notası",
@@ -9343,11 +9552,6 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2020/05/Cesm-i_Siyahim_La.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "Ah Bir Ataş Ver – Kolay Piyano Notası",
@@ -9393,6 +9597,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Allı Turnam Bizim Ele Varırsan – Kolay Bağlama Notası",
     "postUrl": "https://www.kolaynota.com/alli-turnam-bizim-ele-varirsan-kolay-baglama-notasi/",
     "postPublished": "April 30, 2020",
@@ -9430,11 +9639,6 @@
       "https://www.kolaynota.com/wp-content/uploads/2020/04/Her_sey_Bitmedi_Bitemez_piyano-1.jpg",
       "https://www.kolaynota.com/wp-content/uploads/2020/04/Her_sey_Bitmedi_Bitemez_piyano-2.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "Eklemedir Koca Konak – Kolay Piyano Notası",
@@ -9477,6 +9681,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Orda Bir Köy Var Uzakta – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/orda-bir-koy-var-uzakta-do-re-mi-notalari/",
     "postPublished": "April 26, 2020",
@@ -9517,11 +9726,6 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2020/04/Magusa_Limani_kolay_piyano.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "Yeşil Ördek Gibi Daldım Göllere – Kolay Notası",
@@ -9567,6 +9771,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "23 Nisan Kutlu Olsun – Kolay Piyano Notası",
     "postUrl": "https://www.kolaynota.com/23-nisan-kutlu-olsun-kolay-piyano-notasi/",
     "postPublished": "April 22, 2020",
@@ -9606,11 +9815,6 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2020/04/Ne_Aglarsin_Benim_Zulfu_Siyahim_kolaynota2.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "Bir Fırtına Tuttu Bizi Kolay Bağlama Notası",
@@ -9653,6 +9857,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Yandırdın Kalbimi – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/yandirdin-kalbimi-do-re-mi-notalari/",
     "postPublished": "April 18, 2020",
@@ -9688,11 +9897,6 @@
       "https://www.kolaynota.com/wp-content/uploads/2020/05/Karayip_Korsanlari-1.jpg",
       "https://www.kolaynota.com/wp-content/uploads/2020/05/Karayip_Korsanlari-2.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "Bir Küçücük Güzel Kuş – Do Re Mi Notaları",
@@ -9737,6 +9941,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Menekşe Buldum Derede – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/menekse-buldum-derede-do-re-mi-notalari/",
     "postPublished": "April 15, 2020",
@@ -9779,11 +9988,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Gül Rengi – Kolay Piyano Notası",
     "postUrl": "https://www.kolaynota.com/gul-rengi-kolay-piyano-notasi/",
     "postPublished": "April 14, 2020",
@@ -9821,6 +10025,11 @@
       "https://www.kolaynota.com/wp-content/uploads/2020/04/Unutulacak_Dunler-1.jpg",
       "https://www.kolaynota.com/wp-content/uploads/2020/04/Unutulacak_Dunler-2.jpg"
     ]
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
   },
   {
     "postTitle": "Ben Yoruldum Hayat Do Re Mi Notaları",
@@ -9864,11 +10073,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Belalım – Kolay Piyano Notası",
     "postUrl": "https://www.kolaynota.com/belalim-kolay-piyano-notasi/",
     "postPublished": "April 11, 2020",
@@ -9905,6 +10109,11 @@
     "postTitle": "Bu Tepe Karlı Tepe – Kolay Notası",
     "postUrl": "https://www.kolaynota.com/bu-tepe-karli-tepe-kolay-notasi/",
     "postPublished": "April 09, 2020",
+    "notaImages": []
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
     "notaImages": []
   },
   {
@@ -9950,11 +10159,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Helvacı Helva – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/helvaci-helva-do-re-mi-notalari/",
     "postPublished": "April 08, 2020",
@@ -9997,6 +10201,11 @@
       "https://www.kolaynota.com/wp-content/uploads/2020/04/Ayrilik-1.jpg",
       "https://www.kolaynota.com/wp-content/uploads/2020/04/Ayrilik-2.jpg"
     ]
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
   },
   {
     "postTitle": "Bana Bir Masal Anlat Baba – Do Re Mi Notaları",
@@ -10044,11 +10253,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Onun Arabası Var – Nakarat – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/onun-arabasi-var-nakarat-do-re-mi-notalari/",
     "postPublished": "April 02, 2020",
@@ -10085,6 +10289,11 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2020/03/al_fadimem.jpg"
     ]
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
   },
   {
     "postTitle": "Zaman Zaman – Kolay Notası",
@@ -10125,11 +10334,6 @@
     "notaImages": []
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Samsun’dan Doğan Güneş – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/samsundan-dogan-gunes-do-re-mi-notalari/",
     "postPublished": "March 28, 2020",
@@ -10164,6 +10368,11 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2020/03/cav_bella_kolaynota.jpg"
     ]
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
   },
   {
     "postTitle": "Kırmızı Buğday – Kolay Notası",
@@ -10206,11 +10415,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Nasıl Geçti Habersiz – Kolay Notası",
     "postUrl": "https://www.kolaynota.com/nasil-gecti-habersiz-kolay-notasi/",
     "postPublished": "March 25, 2020",
@@ -10248,6 +10452,11 @@
     "notaImages": []
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Sabunu Koydum Leğene – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/sabunu-koydum-legene-do-re-mi-notalari/",
     "postPublished": "March 23, 2020",
@@ -10282,11 +10491,6 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2020/03/Undertale.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "Affetmem Asla Seni – Kolay Notası",
@@ -10330,6 +10534,11 @@
     "notaImages": []
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Buruk Acı – Kolay Piyano Notası",
     "postUrl": "https://www.kolaynota.com/buruk-aci-kolay-piyano-notasi/",
     "postPublished": "March 19, 2020",
@@ -10367,11 +10576,6 @@
       "https://www.kolaynota.com/wp-content/uploads/2020/03/Hasretinle_Yandi_Gonlum_kolaypiyano-1.jpg",
       "https://www.kolaynota.com/wp-content/uploads/2020/03/Hasretinle_Yandi_Gonlum_kolaypiyano-2.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "Ederlezi – Do Re Mi Notaları",
@@ -10413,6 +10617,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Ağaca Övgü – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/agaca-ovgu-do-re-mi-notalari/",
     "postPublished": "March 14, 2020",
@@ -10452,11 +10661,6 @@
     "notaImages": []
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Şehit Tahtında – Piyano Notası",
     "postUrl": "https://www.kolaynota.com/sehit-tahtinda-piyano-notasi/",
     "postPublished": "March 07, 2020",
@@ -10492,6 +10696,11 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2020/03/Eledim_Eledim_Holluk_Eledim.jpg"
     ]
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
   },
   {
     "postTitle": "Yıllar Sonra Rastladım – Kolay Notası",
@@ -10538,11 +10747,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Ağlama Değmez Hayat – Kolay Notası",
     "postUrl": "https://www.kolaynota.com/aglama-degmez-hayat-kolay-notasi/",
     "postPublished": "February 26, 2020",
@@ -10575,6 +10779,11 @@
     "postTitle": "Köyümüzde Şenlik Var – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/koyumuzde-senlik-var-do-re-mi-notalari/",
     "postPublished": "February 23, 2020",
+    "notaImages": []
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
     "notaImages": []
   },
   {
@@ -10614,11 +10823,6 @@
     "notaImages": []
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Auld Lang Syne – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/auld-lang-syne-do-re-mi-notalari/",
     "postPublished": "February 16, 2020",
@@ -10651,6 +10855,11 @@
     "postTitle": "Sonbahar – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/sonbahar-do-re-mi-notalari/",
     "postPublished": "February 07, 2020",
+    "notaImages": []
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
     "notaImages": []
   },
   {
@@ -10692,11 +10901,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Leylim Ley – Kolay Notası",
     "postUrl": "https://www.kolaynota.com/leylim-ley-kolay-notasi/",
     "postPublished": "January 29, 2020",
@@ -10734,6 +10938,11 @@
     "postTitle": "Scarborough Fair – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/scarborough-fair-do-re-mi-notalari/",
     "postPublished": "January 24, 2020",
+    "notaImages": []
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
     "notaImages": []
   },
   {
@@ -10777,11 +10986,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Ben Bir Küçük Cezveyim – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/ben-bir-kucuk-cezveyim-do-re-mi-notalari/",
     "postPublished": "January 16, 2020",
@@ -10809,6 +11013,11 @@
     "postTitle": "İki Keklik – Kolay Notası",
     "postUrl": "https://www.kolaynota.com/iki-keklik-kolay-notasi/",
     "postPublished": "January 13, 2020",
+    "notaImages": []
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
     "notaImages": []
   },
   {
@@ -10848,11 +11057,6 @@
     "notaImages": []
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Arpa Buğday Daneler – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/arpa-bugday-daneler-do-re-mi-notalari/",
     "postPublished": "January 06, 2020",
@@ -10883,6 +11087,11 @@
     "postTitle": "Bindim Elma Dalına – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/bindim-elma-dalina-do-re-mi-notalari/",
     "postPublished": "January 03, 2020",
+    "notaImages": []
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
     "notaImages": []
   },
   {
@@ -10920,11 +11129,6 @@
     "postTitle": "Ferdinando Carulli – Waltz",
     "postUrl": "https://www.kolaynota.com/carulli-waltz/",
     "postPublished": "December 25, 2019",
-    "notaImages": []
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
     "notaImages": []
   },
   {
@@ -10968,6 +11172,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Barcarolle – Piano Notası",
     "postUrl": "https://www.kolaynota.com/barcarolle-piano-notasi/",
     "postPublished": "December 17, 2019",
@@ -11003,11 +11212,6 @@
     "notaImages": []
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Bilin Bakalım – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/bilin-bakalim-do-re-mi-notalari/",
     "postPublished": "December 11, 2019",
@@ -11035,6 +11239,11 @@
     "postTitle": "Bom Bili Bili Bili Bom – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/bom-bili-bili-bili-bom-do-re-mi-notalari/",
     "postPublished": "December 06, 2019",
+    "notaImages": []
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
     "notaImages": []
   },
   {
@@ -11073,11 +11282,6 @@
     "notaImages": []
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Bir Kızı Çok Sevmiştim – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/bir-kizi-cok-sevmistim-do-re-mi-notalari/",
     "postPublished": "November 30, 2019",
@@ -11110,6 +11314,11 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2019/11/Delisin.jpg"
     ]
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
   },
   {
     "postTitle": "Öğretmenim Canım Benim – Do Re Mi Notaları",
@@ -11151,11 +11360,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Bir Başka Sevgiliyi Sevemem – Kolay Notası",
     "postUrl": "https://www.kolaynota.com/bir-baska-sevgiliyi-sevemem-kolay-notasi/",
     "postPublished": "November 16, 2019",
@@ -11190,6 +11394,11 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2019/11/Giresunun_icinde.jpg"
     ]
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
   },
   {
     "postTitle": "Bim Bam Bom – Kolay Notası",
@@ -11227,11 +11436,6 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2019/11/Yankee_Doodle_nota.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "Au Clair de la Lune – Do Re Mi Notaları",
@@ -11274,6 +11478,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Yoğurt Koydum Dolaba – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/yogurt-koydum-dolaba-do-re-mi-notalari/",
     "postPublished": "October 29, 2019",
@@ -11310,11 +11519,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Benim Gözüm Sende – Kolay Notası",
     "postUrl": "https://www.kolaynota.com/benim-gozum-sende-kolay-notasi/",
     "postPublished": "October 26, 2019",
@@ -11344,6 +11548,11 @@
     "postTitle": "Sevemez Kimse Seni – Kolay Notası",
     "postUrl": "https://www.kolaynota.com/sevemez-kimse-seni-kolay-notasi/",
     "postPublished": "October 21, 2019",
+    "notaImages": []
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
     "notaImages": []
   },
   {
@@ -11384,11 +11593,6 @@
     "notaImages": []
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Entarisi Dım Dım Yar – Kolay Notası",
     "postUrl": "https://www.kolaynota.com/entarisi-dim-dim-yar-kolay-notasi/",
     "postPublished": "October 16, 2019",
@@ -11426,6 +11630,11 @@
     "notaImages": []
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Aguado – Etude in A",
     "postUrl": "https://www.kolaynota.com/aguado-etude-in-a/",
     "postPublished": "October 14, 2019",
@@ -11459,11 +11668,6 @@
     "postTitle": "İstiklal Marşı Kolay Melodika Notaları",
     "postUrl": "https://www.kolaynota.com/istiklal-marsi-kolay-notasi/",
     "postPublished": "October 07, 2019",
-    "notaImages": []
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
     "notaImages": []
   },
   {
@@ -11504,6 +11708,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Carulli – Andante",
     "postUrl": "https://www.kolaynota.com/carulli-andante/",
     "postPublished": "September 30, 2019",
@@ -11535,11 +11744,6 @@
       "https://www.kolaynota.com/wp-content/uploads/2019/09/Arcas_Manuelito-1.jpg",
       "https://www.kolaynota.com/wp-content/uploads/2019/09/Arcas_Manuelito-2.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "Arcas – La Saltarina",
@@ -11576,6 +11780,11 @@
     "notaImages": []
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Arcas – Menuet – Sol Majör",
     "postUrl": "https://www.kolaynota.com/arcas-menuet-sol-major/",
     "postPublished": "September 25, 2019",
@@ -11605,11 +11814,6 @@
     "postTitle": "Dance Of The Washerwomen",
     "postUrl": "https://www.kolaynota.com/dance-of-the-washerwomen/",
     "postPublished": "September 18, 2019",
-    "notaImages": []
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
     "notaImages": []
   },
   {
@@ -11657,6 +11861,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Caddelerde Rüzgar – Kolay Notası",
     "postUrl": "https://www.kolaynota.com/caddelerde-ruzgar-kolay-notasi/",
     "postPublished": "September 09, 2019",
@@ -11692,11 +11901,6 @@
     "postTitle": "Carulli – Prelude",
     "postUrl": "https://www.kolaynota.com/carulli-prelude/",
     "postPublished": "September 01, 2019",
-    "notaImages": []
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
     "notaImages": []
   },
   {
@@ -11739,6 +11943,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Sev Kardeşim – Kolay Notası",
     "postUrl": "https://www.kolaynota.com/sev-kardesim-kolay-notasi/",
     "postPublished": "August 14, 2019",
@@ -11779,11 +11988,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Game Of Thrones – Kolay Notası",
     "postUrl": "https://www.kolaynota.com/game-of-thrones-kolay-notasi/",
     "postPublished": "August 11, 2019",
@@ -11816,6 +12020,11 @@
     "postTitle": "Ay Akşamdan Işıktır – Kolay Notası",
     "postUrl": "https://www.kolaynota.com/ay-aksamdan-isiktir-kolay-notasi/",
     "postPublished": "July 29, 2019",
+    "notaImages": []
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
     "notaImages": []
   },
   {
@@ -11857,11 +12066,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Kara Duman – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/kara-duman-do-re-mi-notalari/",
     "postPublished": "July 14, 2019",
@@ -11897,6 +12101,11 @@
       "https://www.kolaynota.com/wp-content/uploads/2019/07/Yasa_Fenerbahce_kolay.jpg",
       "https://www.kolaynota.com/wp-content/uploads/2019/07/Yasa_Fenerbahce_piyano-723x1024.jpg"
     ]
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
   },
   {
     "postTitle": "When The Saints Go Marching In – Piyano Düet",
@@ -11939,11 +12148,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Odam Kireç Tutmuyor Do Re Mi Notası",
     "postUrl": "https://www.kolaynota.com/odam-kirec-tutmuyor-do-re-mi-notasi/",
     "postPublished": "June 17, 2019",
@@ -11980,6 +12184,11 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2019/06/Madimak_Oylum_Oylum.jpg"
     ]
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
   },
   {
     "postTitle": "Bahçada Yeşil Çınar Kolay Notası",
@@ -12025,11 +12234,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Pazara Gidelim Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/pazara-gidelim-do-re-mi-notalari/",
     "postPublished": "June 04, 2019",
@@ -12068,6 +12272,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Güzel Günler Göreceğiz – Kolay Notası",
     "postUrl": "https://www.kolaynota.com/guzel-gunler-gorecegiz-kolay-notasi/",
     "postPublished": "May 29, 2019",
@@ -12103,11 +12312,6 @@
     "notaImages": []
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Kışa Veda Do Re Mi Notası",
     "postUrl": "https://www.kolaynota.com/kisa-veda-do-re-mi-notasi/",
     "postPublished": "May 22, 2019",
@@ -12137,6 +12341,11 @@
     "postTitle": "Kuşlar Do Re Mi Notası",
     "postUrl": "https://www.kolaynota.com/kuslar-do-re-mi-notasi/",
     "postPublished": "May 22, 2019",
+    "notaImages": []
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
     "notaImages": []
   },
   {
@@ -12177,11 +12386,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Uç Uç Böceğim – Do Re Mi Notası",
     "postUrl": "https://www.kolaynota.com/uc-uc-bocegim-do-re-mi-notasi/",
     "postPublished": "May 21, 2019",
@@ -12217,6 +12421,11 @@
       "https://www.kolaynota.com/wp-content/uploads/2019/05/Sol_Major_Menuet_melodi.jpg",
       "https://www.kolaynota.com/wp-content/uploads/2019/05/Sol_Major_Menuet.jpg"
     ]
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
   },
   {
     "postTitle": "Onuncu Yıl Marşı – Piyano Notası",
@@ -12260,11 +12469,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Kavurma Koydum Tasa Kolay Notası",
     "postUrl": "https://www.kolaynota.com/kavurma-koydum-tasa-kolay-notasi/",
     "postPublished": "April 24, 2019",
@@ -12306,6 +12510,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Bitlis’te Beş Minare Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/bitliste-bes-minare-do-re-mi-notalari/",
     "postPublished": "April 08, 2019",
@@ -12344,11 +12553,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Manastır Türküsü Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/manastir-turkusu-do-re-mi-notalari/",
     "postPublished": "March 21, 2019",
@@ -12385,6 +12589,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Molino – Prelude in A Minor – Classical Guitar",
     "postUrl": "https://www.kolaynota.com/molino-prelude-in-a-minor/",
     "postPublished": "March 03, 2019",
@@ -12414,11 +12623,6 @@
     "postTitle": "Yağmur Yağıyor Piyano Notası",
     "postUrl": "https://www.kolaynota.com/yagmur-yagiyor-piyano-notasi/",
     "postPublished": "January 23, 2019",
-    "notaImages": []
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
     "notaImages": []
   },
   {
@@ -12454,6 +12658,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Chopsticks Piyano Notası",
     "postUrl": "https://www.kolaynota.com/chopsticks-piyano-notasi/",
     "postPublished": "January 23, 2019",
@@ -12483,11 +12692,6 @@
     "postTitle": "Ah İstanbul Piyano Notası",
     "postUrl": "https://www.kolaynota.com/ah-istanbul-piyano-notasi/",
     "postPublished": "January 06, 2019",
-    "notaImages": []
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
     "notaImages": []
   },
   {
@@ -12534,6 +12738,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Plevne Marşı Piyano Notası",
     "postUrl": "https://www.kolaynota.com/plevne-marsi-piyano-notasi/",
     "postPublished": "December 04, 2018",
@@ -12576,11 +12785,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Kırmızı Balık Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/kirmizi-balik-do-re-mi-notalari/",
     "postPublished": "November 13, 2018",
@@ -12615,6 +12819,11 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2018/11/Kerkuk_Zindani.jpg"
     ]
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
   },
   {
     "postTitle": "Magusa Limanı Do Re Mi Notaları",
@@ -12658,11 +12867,6 @@
       "https://www.kolaynota.com/wp-content/uploads/2018/10/Ne_Aglarsin_Benim_Zulfu_Siyahim-1.jpg",
       "https://www.kolaynota.com/wp-content/uploads/2018/10/Ne_Aglarsin_Benim_Zulfu_Siyahim-2.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "Sevdim Seni Bir Kere Kolay Notasyon",
@@ -12710,6 +12914,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "İzmir Marşı Piyano Notası",
     "postUrl": "https://www.kolaynota.com/izmir-marsi-piyano-notasi/",
     "postPublished": "October 19, 2018",
@@ -12748,11 +12957,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Aldırma Gönül Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/aldirma-gonul-do-re-mi-notalari/",
     "postPublished": "October 02, 2018",
@@ -12789,6 +12993,11 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2018/09/The_Godfather_kolay.jpg"
     ]
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
   },
   {
     "postTitle": "Sakarya Marşı Do Re Mi Notaları",
@@ -12832,11 +13041,6 @@
     ]
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Cilveloy Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/cilveloy-do-re-mi-notalari/",
     "postPublished": "September 18, 2018",
@@ -12871,6 +13075,11 @@
     "postTitle": "Oh Susanna Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/oh-susanna-do-re-mi-notalari/",
     "postPublished": "September 09, 2018",
+    "notaImages": []
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
     "notaImages": []
   },
   {
@@ -12911,11 +13120,6 @@
     "notaImages": []
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Yağmur Yağıyor Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/yagmur-yagiyor-do-re-mi-notalari/",
     "postPublished": "September 02, 2018",
@@ -12946,6 +13150,11 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2018/08/Cicek_Abbas.jpg"
     ]
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
   },
   {
     "postTitle": "Ilgaz Anadolu’nun Do Re Mi Notası",
@@ -12986,11 +13195,6 @@
     "notaImages": []
   },
   {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
     "postTitle": "Ordu’nun Dereleri Do Re Mi Notası",
     "postUrl": "https://www.kolaynota.com/ordunun-dereleri-do-re-mi-notasi/",
     "postPublished": "August 07, 2018",
@@ -13026,6 +13230,11 @@
       "https://www.kolaynota.com/wp-content/uploads/2018/07/Greensleeves-1.jpg",
       "https://www.kolaynota.com/wp-content/uploads/2018/07/Greensleeves-2.jpg"
     ]
+  },
+  {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
   },
   {
     "postTitle": "Piyano Akor Tablosu",
@@ -13065,11 +13274,6 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2018/07/Silent_Night_piyano.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "Gesi Bağları Piyano Notası",
@@ -13112,6 +13316,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Küçüğüm – Piyano Notası",
     "postUrl": "https://www.kolaynota.com/kucugum-piyano-notasi/",
     "postPublished": "July 16, 2018",
@@ -13148,11 +13357,6 @@
       "https://www.kolaynota.com/wp-content/uploads/2018/07/Schindlerin_listesi_piano-1.jpg",
       "https://www.kolaynota.com/wp-content/uploads/2018/07/Schindlerin_listesi_piano-2.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "Yalnız Çiçek – Kolay Piyano Notası",
@@ -13195,6 +13399,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "When The Saints Go Marching In Piyano Notası",
     "postUrl": "https://www.kolaynota.com/when-the-saints-go-marching-in-piyano-notasi/",
     "postPublished": "June 28, 2018",
@@ -13234,11 +13443,6 @@
     "notaImages": [
       "https://www.kolaynota.com/wp-content/uploads/2018/06/9_senfoni.jpg"
     ]
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
   },
   {
     "postTitle": "Happy Birthday Piyano Notası – Eşlikli",
@@ -13284,6 +13488,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Çöpçüler – Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/copculer-kolay-nota/",
     "postPublished": "June 21, 2018",
@@ -13318,11 +13527,6 @@
     "postTitle": "Suspus Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/suspus-do-re-mi-notalari/",
     "postPublished": "June 19, 2018",
-    "notaImages": []
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
     "notaImages": []
   },
   {
@@ -13368,6 +13572,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Cimbom Galatasaray Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/cimbom-galatasaray-do-re-mi-notalari/",
     "postPublished": "June 13, 2018",
@@ -13399,11 +13608,6 @@
     "postTitle": "Tren Gelir Hoş Gelir Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/tren-gelir-hos-gelir-do-re-mi-notalari/",
     "postPublished": "June 07, 2018",
-    "notaImages": []
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
     "notaImages": []
   },
   {
@@ -13441,6 +13645,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Saray Yolu İncedir Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/saray-yolu-do-re-mi-notalari/",
     "postPublished": "May 31, 2018",
@@ -13472,11 +13681,6 @@
     "postTitle": "Bizim Hikaye Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/bizim-hikaye-do-re-mi-notalari/",
     "postPublished": "May 31, 2018",
-    "notaImages": []
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
     "notaImages": []
   },
   {
@@ -13515,6 +13719,11 @@
     ]
   },
   {
+    "postTitle": "",
+    "postPublished": "January 09, 2024",
+    "notaImages": []
+  },
+  {
     "postTitle": "Değirmen Üstü Çiçek Do Re Mi Notaları",
     "postUrl": "https://www.kolaynota.com/degirmen-ustu-cicek-do-re-mi-notalari/",
     "postPublished": "May 30, 2018",
@@ -13549,49 +13758,5 @@
     "postUrl": "https://www.kolaynota.com/masal-do-re-mi-notalari/",
     "postPublished": "May 29, 2018",
     "notaImages": []
-  },
-  {
-    "postTitle": "",
-    "postPublished": "January 09, 2024",
-    "notaImages": []
-  },
-  {
-    "postTitle": "Aydede Do Re Mi Notaları",
-    "postUrl": "https://www.kolaynota.com/aydede-do-re-mi-notalari/",
-    "postPublished": "May 29, 2018",
-    "notaImages": []
-  },
-  {
-    "postTitle": "Yine Bir Gülnihal Do Re Mi Notaları",
-    "postUrl": "https://www.kolaynota.com/yine-bir-gulnihal-do-re-mi-notalari/",
-    "postPublished": "May 29, 2018",
-    "notaImages": [
-      "https://www.kolaynota.com/wp-content/uploads/2019/07/Yine_Bir_Gulnihal.jpg"
-    ]
-  },
-  {
-    "postTitle": "Neşeli Ol ki Genç Kalasın Do Re Mi notaları",
-    "postUrl": "https://www.kolaynota.com/neseli-ol-ki-genc-kalasin-do-re-mi-notalari/",
-    "postPublished": "May 29, 2018",
-    "notaImages": [
-      "https://www.kolaynota.com/wp-content/uploads/2018/05/Neseli_Ol.jpg"
-    ]
-  },
-  {
-    "postTitle": "Jingle Bells Do Re Mi Notaları",
-    "postUrl": "https://www.kolaynota.com/jingle-bells-do-re-mi-notalari/",
-    "postPublished": "May 29, 2018",
-    "notaImages": [
-      "https://www.kolaynota.com/wp-content/uploads/2018/05/Jingle_Bells_sol_majo.jpg",
-      "https://www.kolaynota.com/wp-content/uploads/2018/05/Jingle_Bells_kolay.jpg"
-    ]
-  },
-  {
-    "postTitle": "Happy Birthday Do Re Mi Notaları",
-    "postUrl": "https://www.kolaynota.com/happy-birthday-do-re-mi-notalari/",
-    "postPublished": "May 29, 2018",
-    "notaImages": [
-      "https://www.kolaynota.com/wp-content/uploads/2018/05/Happy_Birthday.jpg"
-    ]
   }
 ]
