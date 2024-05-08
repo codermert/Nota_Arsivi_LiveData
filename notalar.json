@@ -5852,7 +5852,12 @@
     "postTitle": "Zeynep Bastık – Çukur Notaları",
     "postUrl": "https://www.kolaynota.com/zeynep-bastik-cukur-notalari/",
     "postPublished": "February 01, 2021",
-    "notaImages": []
+    "notaImages": [
+      "https://www.kolaynota.com/wp-content/uploads/2021/02/Cukur.jpg",
+      "https://www.kolaynota.com/wp-content/uploads/2021/02/Cukur_piyano-1.jpg",
+      "https://www.kolaynota.com/wp-content/uploads/2021/02/Cukur_piyano-2.jpg",
+      "https://www.kolaynota.com/wp-content/uploads/2021/02/Cukur_piyano-3.jpg"
+    ]
   },
   {
     "postTitle": "Ha Bu Diyar Do Re Mi Melodika Notaları",
@@ -7896,7 +7901,10 @@
     "postTitle": "Metrisin Önünde Durdum – Kolay Notası",
     "postUrl": "https://www.kolaynota.com/metrisin-onunde-durdum-kolay-notasi/",
     "postPublished": "August 24, 2020",
-    "notaImages": []
+    "notaImages": [
+      "https://www.kolaynota.com/wp-content/uploads/2020/08/Metrisin_Onunde_Durdum_la.jpg",
+      "https://www.kolaynota.com/wp-content/uploads/2020/08/Metrisin_Onunde_Durdum_mi.jpg"
+    ]
   },
   {
     "postTitle": "",
