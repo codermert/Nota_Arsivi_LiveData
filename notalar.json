@@ -1241,11 +1241,7 @@
     "postTitle": "Umut Kaya – Mor Yazma – Nota",
     "postUrl": "https://www.kolaynota.com/umut-kaya-mor-yazma-nota/",
     "postPublished": "October 08, 2023",
-    "notaImages": [
-      "https://www.kolaynota.com/wp-content/uploads/2023/10/Mor_Yazma_nota.jpg",
-      "https://www.kolaynota.com/wp-content/uploads/2023/10/Mor_Yazma_piyano_nota-1.jpg",
-      "https://www.kolaynota.com/wp-content/uploads/2023/10/Mor_Yazma_piyano_nota-2.jpg"
-    ]
+    "notaImages": []
   },
   {
     "postTitle": "Cumhuriyet Güneşi – Nota",
@@ -1335,7 +1331,9 @@
     "postTitle": "Funda Arar – Yak Gel Nota",
     "postUrl": "https://www.kolaynota.com/funda-arar-yak-gel-nota/",
     "postPublished": "September 14, 2023",
-    "notaImages": []
+    "notaImages": [
+      "https://www.kolaynota.com/wp-content/uploads/2023/09/Yak_Gel_nota.webp"
+    ]
   },
   {
     "postTitle": "Değme Felek – Bugün Benim Efkarım Var Nota",
@@ -1701,10 +1699,7 @@
     "postTitle": "Orhan Ölmez – Dön Desem – Nota",
     "postUrl": "https://www.kolaynota.com/orhan-olmez-don-desem-nota/",
     "postPublished": "June 24, 2023",
-    "notaImages": [
-      "https://www.kolaynota.com/wp-content/uploads/2023/06/Don_Desem_nota.jpg",
-      "https://www.kolaynota.com/wp-content/uploads/2023/06/Don_Desem_piyano-nota.jpg"
-    ]
+    "notaImages": []
   },
   {
     "postTitle": "",
@@ -12743,7 +12738,9 @@
     "postTitle": "Bekledim de Gelmedin – Kolay Notası",
     "postUrl": "https://www.kolaynota.com/bekledim-de-gelmedin-kolay-notasi/",
     "postPublished": "August 12, 2019",
-    "notaImages": []
+    "notaImages": [
+      "https://www.kolaynota.com/wp-content/uploads/2019/08/Bekledim_de_Gelmedin.jpg"
+    ]
   },
   {
     "postTitle": "",
