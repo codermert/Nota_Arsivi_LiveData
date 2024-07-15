@@ -699,7 +699,11 @@
     "postTitle": "Gökhan Türkmen – Mahşer – Nota",
     "postUrl": "https://www.kolaynota.com/gokhan-turkmen-mahser-nota/",
     "postPublished": "February 02, 2024",
-    "notaImages": []
+    "notaImages": [
+      "https://www.kolaynota.com/wp-content/uploads/2024/02/Mahser_nota.jpg",
+      "https://www.kolaynota.com/wp-content/uploads/2024/02/Mahser_piyano-1.jpg",
+      "https://www.kolaynota.com/wp-content/uploads/2024/02/Mahser_piyano-2.jpg"
+    ]
   },
   {
     "postTitle": "Woe Is Me – Sad Hamster – Nota",
@@ -1858,7 +1862,6 @@
     ]
   },
   {
-    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/12/baris-210x136.jpg",
     "postTitle": "Barış Manço – Gönül Ferman Dinlemiyor – Nota",
     "postUrl": "https://www.kolaynota.com/baris-manco-gonul-ferman-dinlemiyor-nota/",
     "postPublished": "June 09, 2023",
@@ -1867,7 +1870,6 @@
     ]
   },
   {
-    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/sanat-210x136.jpg",
     "postTitle": "Benzemez Kimse Sana – Nota",
     "postUrl": "https://www.kolaynota.com/benzemez-kimse-sana-nota/",
     "postPublished": "June 07, 2023",
@@ -1876,7 +1878,6 @@
     ]
   },
   {
-    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/dolu_kadeh-iters-tut-210x136.jpg",
     "postTitle": "Dolu Kadehi Ters Tut – Yalan – Nota",
     "postUrl": "https://www.kolaynota.com/dolu-kadehi-ters-tut-yalan-nota/",
     "postPublished": "June 05, 2023",
@@ -1887,7 +1888,6 @@
     ]
   },
   {
-    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/09/ferdi-tayfur-210x136.jpg",
     "postTitle": "Ferdi Tayfur – Huzurum Kalmadı – Nota",
     "postUrl": "https://www.kolaynota.com/ferdi-tayfur-huzurum-kalmadi-nota/",
     "postPublished": "June 04, 2023",
@@ -1896,7 +1896,6 @@
     ]
   },
   {
-    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/ali_kinik-210x136.jpg",
     "postTitle": "Ali Kınık – Kurtlar Sofrası – Nota",
     "postUrl": "https://www.kolaynota.com/ali-kinik-kurtlar-sofrasi-nota/",
     "postPublished": "June 02, 2023",
@@ -1910,7 +1909,6 @@
     "notaImages": []
   },
   {
-    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2023/05/galata-210x136.webp",
     "postTitle": "Galatasaray – Adanmış Hayatların Umudu – Nota",
     "postUrl": "https://www.kolaynota.com/galatasaray-adanmis-hayatlarin-umudu-nota/",
     "postPublished": "May 31, 2023",
@@ -1919,7 +1917,6 @@
     ]
   },
   {
-    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2023/05/funda-210x136.webp",
     "postTitle": "Funda – Çaresizim – Nota",
     "postUrl": "https://www.kolaynota.com/funda-caresizim-nota/",
     "postPublished": "May 30, 2023",
@@ -1928,7 +1925,6 @@
     ]
   },
   {
-    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/sanat-210x136.jpg",
     "postTitle": "Dalgalandım da Duruldum – Nota",
     "postUrl": "https://www.kolaynota.com/dalgalandim-da-duruldum-nota/",
     "postPublished": "May 28, 2023",
@@ -1937,7 +1933,6 @@
     ]
   },
   {
-    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2023/04/semicenk-210x136.webp",
     "postTitle": "Semicenk – Geri Dönemedim – Nota",
     "postUrl": "https://www.kolaynota.com/semicenk-geri-donemedim-nota/",
     "postPublished": "May 25, 2023",
@@ -1948,7 +1943,6 @@
     ]
   },
   {
-    "imgSrc": "https://www.kolaynota.com/wp-content/uploads/2020/07/ayten_alpman-210x136.jpg",
     "postTitle": "Ayten Alpman – Ben Böyleyim – Nota",
     "postUrl": "https://www.kolaynota.com/ayten-alpman-ben-boyleyim-nota/",
     "postPublished": "May 24, 2023",
